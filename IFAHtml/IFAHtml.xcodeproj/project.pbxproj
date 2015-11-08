@@ -31,7 +31,6 @@
 		F74ACC251BEBFE4400C4B73E /* IFAHtmlParser.m in Sources */ = {isa = PBXBuildFile; fileRef = F74ACC201BEBFE4400C4B73E /* IFAHtmlParser.m */; };
 		F74ACC261BEBFE4400C4B73E /* IFAWebViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = F74ACC211BEBFE4400C4B73E /* IFAWebViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F74ACC271BEBFE4400C4B73E /* IFAWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F74ACC221BEBFE4400C4B73E /* IFAWebViewController.m */; };
-		F74ACC291BEBFE9800C4B73E /* Cartfile in Resources */ = {isa = PBXBuildFile; fileRef = F74ACC281BEBFE9800C4B73E /* Cartfile */; };
 		F74ACC2B1BEC00B400C4B73E /* IFAFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F74ACC2A1BEC00B400C4B73E /* IFAFoundation.framework */; };
 		F74ACC2D1BEC00B700C4B73E /* IFACoreUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F74ACC2C1BEC00B700C4B73E /* IFACoreUI.framework */; };
 		F74ACC2F1BEC00BB00C4B73E /* IFAAppUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F74ACC2E1BEC00BB00C4B73E /* IFAAppUI.framework */; };
@@ -350,7 +349,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F74ACC291BEBFE9800C4B73E /* Cartfile in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
