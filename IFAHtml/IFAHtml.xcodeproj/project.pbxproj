@@ -15,6 +15,17 @@
 		F714161F1BEFE24A009F8895 /* NSString+IFA_GTM_HTML.m in Sources */ = {isa = PBXBuildFile; fileRef = F71416191BEFE24A009F8895 /* NSString+IFA_GTM_HTML.m */; };
 		F71416211BEFE24A009F8895 /* NSString+IFA_MW_HTML.h in Headers */ = {isa = PBXBuildFile; fileRef = F714161B1BEFE24A009F8895 /* NSString+IFA_MW_HTML.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F71416221BEFE24A009F8895 /* NSString+IFA_MW_HTML.m in Sources */ = {isa = PBXBuildFile; fileRef = F714161C1BEFE24A009F8895 /* NSString+IFA_MW_HTML.m */; };
+		F714162B1BEFE4C9009F8895 /* IFAHtmlParserTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F71416251BEFE4C9009F8895 /* IFAHtmlParserTests.m */; };
+		F714162C1BEFE4C9009F8895 /* HtmlParser_testdata1.html in Resources */ = {isa = PBXBuildFile; fileRef = F71416271BEFE4C9009F8895 /* HtmlParser_testdata1.html */; };
+		F714162D1BEFE4C9009F8895 /* HtmlParser_testdata2.html in Resources */ = {isa = PBXBuildFile; fileRef = F71416281BEFE4C9009F8895 /* HtmlParser_testdata2.html */; };
+		F714162E1BEFE4C9009F8895 /* HtmlParser_testdata3.html in Resources */ = {isa = PBXBuildFile; fileRef = F71416291BEFE4C9009F8895 /* HtmlParser_testdata3.html */; };
+		F714162F1BEFE4C9009F8895 /* HtmlParser_testdata4.html in Resources */ = {isa = PBXBuildFile; fileRef = F714162A1BEFE4C9009F8895 /* HtmlParser_testdata4.html */; };
+		F71416311BEFE71A009F8895 /* IFAAppUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F74ACC2E1BEC00BB00C4B73E /* IFAAppUI.framework */; };
+		F71416321BEFE71A009F8895 /* IFACoreUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F74ACC2C1BEC00B700C4B73E /* IFACoreUI.framework */; };
+		F71416331BEFE71A009F8895 /* IFAFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F74ACC2A1BEC00B400C4B73E /* IFAFoundation.framework */; };
+		F71416351BEFE762009F8895 /* IFAAppUI.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = F74ACC2E1BEC00BB00C4B73E /* IFAAppUI.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		F71416361BEFE762009F8895 /* IFACoreUI.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = F74ACC2C1BEC00B700C4B73E /* IFACoreUI.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		F71416371BEFE762009F8895 /* IFAFoundation.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = F74ACC2A1BEC00B400C4B73E /* IFAFoundation.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		F74ACC231BEBFE4400C4B73E /* IFAHtml.h in Headers */ = {isa = PBXBuildFile; fileRef = F74ACC1E1BEBFE4400C4B73E /* IFAHtml.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F74ACC241BEBFE4400C4B73E /* IFAHtmlParser.h in Headers */ = {isa = PBXBuildFile; fileRef = F74ACC1F1BEBFE4400C4B73E /* IFAHtmlParser.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F74ACC251BEBFE4400C4B73E /* IFAHtmlParser.m in Sources */ = {isa = PBXBuildFile; fileRef = F74ACC201BEBFE4400C4B73E /* IFAHtmlParser.m */; };
@@ -25,7 +36,7 @@
 		F74ACC2D1BEC00B700C4B73E /* IFACoreUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F74ACC2C1BEC00B700C4B73E /* IFACoreUI.framework */; };
 		F74ACC2F1BEC00BB00C4B73E /* IFAAppUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F74ACC2E1BEC00BB00C4B73E /* IFAAppUI.framework */; };
 		F7650AEE1BE954C600B97932 /* IFAHtml.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F7650AE31BE954C600B97932 /* IFAHtml.framework */; };
-		F7650AF31BE954C600B97932 /* IFAHtmlTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F7650AF21BE954C600B97932 /* IFAHtmlTests.m */; };
+		FE82ECE63521FD29D7F43BC5 /* Pods.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE1C54ECE7047D3B2A93154F /* Pods.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,13 +49,30 @@
 		};
 /* End PBXContainerItemProxy section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		F71416341BEFE753009F8895 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				F71416351BEFE762009F8895 /* IFAAppUI.framework in CopyFiles */,
+				F71416361BEFE762009F8895 /* IFACoreUI.framework in CopyFiles */,
+				F71416371BEFE762009F8895 /* IFAFoundation.framework in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
 		107384C775547CBF380CFCA3 /* readme.markdown */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = readme.markdown; sourceTree = "<group>"; };
 		10738BCB7A3C1130558BB9E9 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		5B8DDBAC4B7C8CD415EA6892 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "../Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
+		68A6991353FA267BCEDD24D7 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "../Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
+		AE1C54ECE7047D3B2A93154F /* Pods.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F71416071BEFD7AC009F8895 /* IFA_DTHTMLParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IFA_DTHTMLParser.h; sourceTree = "<group>"; };
 		F71416081BEFD7AC009F8895 /* IFA_DTHTMLParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IFA_DTHTMLParser.m; sourceTree = "<group>"; };
 		F714160B1BEFD7FF009F8895 /* IFA_DTWeakSupport.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IFA_DTWeakSupport.h; sourceTree = "<group>"; };
-		F71416131BEFE031009F8895 /* libxml2.2.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libxml2.2.tbd; path = usr/lib/libxml2.2.tbd; sourceTree = SDKROOT; };
 		F71416151BEFE0D4009F8895 /* libxml2.2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.2.dylib; path = ../../../../../../../../usr/lib/libxml2.2.dylib; sourceTree = "<group>"; };
 		F71416181BEFE24A009F8895 /* NSString+IFA_GTM_HTML.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+IFA_GTM_HTML.h"; sourceTree = "<group>"; };
 		F71416191BEFE24A009F8895 /* NSString+IFA_GTM_HTML.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+IFA_GTM_HTML.m"; sourceTree = "<group>"; };
@@ -52,6 +80,12 @@
 		F714161B1BEFE24A009F8895 /* NSString+IFA_MW_HTML.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+IFA_MW_HTML.h"; sourceTree = "<group>"; };
 		F714161C1BEFE24A009F8895 /* NSString+IFA_MW_HTML.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+IFA_MW_HTML.m"; sourceTree = "<group>"; };
 		F714161D1BEFE24A009F8895 /* README.markdown */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.markdown; sourceTree = "<group>"; };
+		F71416251BEFE4C9009F8895 /* IFAHtmlParserTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IFAHtmlParserTests.m; sourceTree = "<group>"; };
+		F71416271BEFE4C9009F8895 /* HtmlParser_testdata1.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = HtmlParser_testdata1.html; sourceTree = "<group>"; };
+		F71416281BEFE4C9009F8895 /* HtmlParser_testdata2.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = HtmlParser_testdata2.html; sourceTree = "<group>"; };
+		F71416291BEFE4C9009F8895 /* HtmlParser_testdata3.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = HtmlParser_testdata3.html; sourceTree = "<group>"; };
+		F714162A1BEFE4C9009F8895 /* HtmlParser_testdata4.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = HtmlParser_testdata4.html; sourceTree = "<group>"; };
+		F71416301BEFE60E009F8895 /* Podfile */ = {isa = PBXFileReference; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = "<group>"; };
 		F74ACC1E1BEBFE4400C4B73E /* IFAHtml.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IFAHtml.h; sourceTree = "<group>"; };
 		F74ACC1F1BEBFE4400C4B73E /* IFAHtmlParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IFAHtmlParser.h; sourceTree = "<group>"; };
 		F74ACC201BEBFE4400C4B73E /* IFAHtmlParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IFAHtmlParser.m; sourceTree = "<group>"; };
@@ -64,7 +98,6 @@
 		F7650AE31BE954C600B97932 /* IFAHtml.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = IFAHtml.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F7650AE81BE954C600B97932 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F7650AED1BE954C600B97932 /* IFAHtmlTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IFAHtmlTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		F7650AF21BE954C600B97932 /* IFAHtmlTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IFAHtmlTests.m; sourceTree = "<group>"; };
 		F7650AF41BE954C600B97932 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -85,12 +118,33 @@
 			buildActionMask = 2147483647;
 			files = (
 				F7650AEE1BE954C600B97932 /* IFAHtml.framework in Frameworks */,
+				FE82ECE63521FD29D7F43BC5 /* Pods.framework in Frameworks */,
+				F71416311BEFE71A009F8895 /* IFAAppUI.framework in Frameworks */,
+				F71416321BEFE71A009F8895 /* IFACoreUI.framework in Frameworks */,
+				F71416331BEFE71A009F8895 /* IFAFoundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		21AE26FE35B6AFE8F1493745 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AE1C54ECE7047D3B2A93154F /* Pods.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		B129A80CDC5088089F1CC5AB /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				68A6991353FA267BCEDD24D7 /* Pods.debug.xcconfig */,
+				5B8DDBAC4B7C8CD415EA6892 /* Pods.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		F71416061BEFD7AC009F8895 /* DTFoundation */ = {
 			isa = PBXGroup;
 			children = (
@@ -118,6 +172,25 @@
 			path = "3rd party/MWFeedParser";
 			sourceTree = "<group>";
 		};
+		F71416241BEFE4C9009F8895 /* classes */ = {
+			isa = PBXGroup;
+			children = (
+				F71416251BEFE4C9009F8895 /* IFAHtmlParserTests.m */,
+			);
+			path = classes;
+			sourceTree = "<group>";
+		};
+		F71416261BEFE4C9009F8895 /* testdata */ = {
+			isa = PBXGroup;
+			children = (
+				F71416271BEFE4C9009F8895 /* HtmlParser_testdata1.html */,
+				F71416281BEFE4C9009F8895 /* HtmlParser_testdata2.html */,
+				F71416291BEFE4C9009F8895 /* HtmlParser_testdata3.html */,
+				F714162A1BEFE4C9009F8895 /* HtmlParser_testdata4.html */,
+			);
+			path = testdata;
+			sourceTree = "<group>";
+		};
 		F74ACC1D1BEBFE4400C4B73E /* classes */ = {
 			isa = PBXGroup;
 			children = (
@@ -135,8 +208,8 @@
 		F7650AD91BE954C600B97932 = {
 			isa = PBXGroup;
 			children = (
+				F71416301BEFE60E009F8895 /* Podfile */,
 				F71416151BEFE0D4009F8895 /* libxml2.2.dylib */,
-				F71416131BEFE031009F8895 /* libxml2.2.tbd */,
 				F74ACC2E1BEC00BB00C4B73E /* IFAAppUI.framework */,
 				F74ACC2C1BEC00B700C4B73E /* IFACoreUI.framework */,
 				F74ACC2A1BEC00B400C4B73E /* IFAFoundation.framework */,
@@ -144,6 +217,8 @@
 				F7650AE51BE954C600B97932 /* IFAHtml */,
 				F7650AF11BE954C600B97932 /* IFAHtmlTests */,
 				F7650AE41BE954C600B97932 /* Products */,
+				B129A80CDC5088089F1CC5AB /* Pods */,
+				21AE26FE35B6AFE8F1493745 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -168,7 +243,8 @@
 		F7650AF11BE954C600B97932 /* IFAHtmlTests */ = {
 			isa = PBXGroup;
 			children = (
-				F7650AF21BE954C600B97932 /* IFAHtmlTests.m */,
+				F71416241BEFE4C9009F8895 /* classes */,
+				F71416261BEFE4C9009F8895 /* testdata */,
 				F7650AF41BE954C600B97932 /* Info.plist */,
 			);
 			path = IFAHtmlTests;
@@ -216,9 +292,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F7650AFA1BE954C600B97932 /* Build configuration list for PBXNativeTarget "IFAHtmlTests" */;
 			buildPhases = (
+				8BEE731407884B9B22DC04EE /* Check Pods Manifest.lock */,
 				F7650AE91BE954C600B97932 /* Sources */,
 				F7650AEA1BE954C600B97932 /* Frameworks */,
 				F7650AEB1BE954C600B97932 /* Resources */,
+				A16ECFDC8A4D9392B2AD4E20 /* Embed Pods Frameworks */,
+				4D24412170C3F7C743494F6F /* Copy Pods Resources */,
+				F71416341BEFE753009F8895 /* CopyFiles */,
 			);
 			buildRules = (
 			);
@@ -278,10 +358,62 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F714162C1BEFE4C9009F8895 /* HtmlParser_testdata1.html in Resources */,
+				F714162E1BEFE4C9009F8895 /* HtmlParser_testdata3.html in Resources */,
+				F714162D1BEFE4C9009F8895 /* HtmlParser_testdata2.html in Resources */,
+				F714162F1BEFE4C9009F8895 /* HtmlParser_testdata4.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		4D24412170C3F7C743494F6F /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/../Pods/Target Support Files/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8BEE731407884B9B22DC04EE /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		A16ECFDC8A4D9392B2AD4E20 /* Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/../Pods/Target Support Files/Pods/Pods-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		F7650ADE1BE954C600B97932 /* Sources */ = {
@@ -300,7 +432,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F7650AF31BE954C600B97932 /* IFAHtmlTests.m in Sources */,
+				F714162B1BEFE4C9009F8895 /* IFAHtmlParserTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -443,6 +575,7 @@
 		};
 		F7650AFB1BE954C600B97932 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 68A6991353FA267BCEDD24D7 /* Pods.debug.xcconfig */;
 			buildSettings = {
 				INFOPLIST_FILE = IFAHtmlTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -453,6 +586,7 @@
 		};
 		F7650AFC1BE954C600B97932 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5B8DDBAC4B7C8CD415EA6892 /* Pods.release.xcconfig */;
 			buildSettings = {
 				INFOPLIST_FILE = IFAHtmlTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";

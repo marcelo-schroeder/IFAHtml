@@ -86,7 +86,7 @@ static NSString *const k_tagAttributeStyle = @"style";
         for (id l_key in l_attributes.allKeys) {
             NSString *l_value = l_attributes[l_key];
             // Re-encode attribute value for HTML
-            l_attributes[l_key] = [l_value stringByEncodingHTMLEntities];
+            l_attributes[l_key] = [l_value ifa_mw_stringByEncodingHTMLEntities];
         }
     }
 
