@@ -7,7 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F7650AE71BE954C600B97932 /* IFAHtml.h in Headers */ = {isa = PBXBuildFile; fileRef = F7650AE61BE954C600B97932 /* IFAHtml.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F71416091BEFD7AC009F8895 /* IFA_DTHTMLParser.h in Headers */ = {isa = PBXBuildFile; fileRef = F71416071BEFD7AC009F8895 /* IFA_DTHTMLParser.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F714160A1BEFD7AC009F8895 /* IFA_DTHTMLParser.m in Sources */ = {isa = PBXBuildFile; fileRef = F71416081BEFD7AC009F8895 /* IFA_DTHTMLParser.m */; };
+		F714160C1BEFD7FF009F8895 /* IFA_DTWeakSupport.h in Headers */ = {isa = PBXBuildFile; fileRef = F714160B1BEFD7FF009F8895 /* IFA_DTWeakSupport.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F71416161BEFE0D4009F8895 /* libxml2.2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F71416151BEFE0D4009F8895 /* libxml2.2.dylib */; };
+		F714161E1BEFE24A009F8895 /* NSString+IFA_GTM_HTML.h in Headers */ = {isa = PBXBuildFile; fileRef = F71416181BEFE24A009F8895 /* NSString+IFA_GTM_HTML.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F714161F1BEFE24A009F8895 /* NSString+IFA_GTM_HTML.m in Sources */ = {isa = PBXBuildFile; fileRef = F71416191BEFE24A009F8895 /* NSString+IFA_GTM_HTML.m */; };
+		F71416211BEFE24A009F8895 /* NSString+IFA_MW_HTML.h in Headers */ = {isa = PBXBuildFile; fileRef = F714161B1BEFE24A009F8895 /* NSString+IFA_MW_HTML.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F71416221BEFE24A009F8895 /* NSString+IFA_MW_HTML.m in Sources */ = {isa = PBXBuildFile; fileRef = F714161C1BEFE24A009F8895 /* NSString+IFA_MW_HTML.m */; };
+		F74ACC231BEBFE4400C4B73E /* IFAHtml.h in Headers */ = {isa = PBXBuildFile; fileRef = F74ACC1E1BEBFE4400C4B73E /* IFAHtml.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F74ACC241BEBFE4400C4B73E /* IFAHtmlParser.h in Headers */ = {isa = PBXBuildFile; fileRef = F74ACC1F1BEBFE4400C4B73E /* IFAHtmlParser.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F74ACC251BEBFE4400C4B73E /* IFAHtmlParser.m in Sources */ = {isa = PBXBuildFile; fileRef = F74ACC201BEBFE4400C4B73E /* IFAHtmlParser.m */; };
+		F74ACC261BEBFE4400C4B73E /* IFAWebViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = F74ACC211BEBFE4400C4B73E /* IFAWebViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F74ACC271BEBFE4400C4B73E /* IFAWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F74ACC221BEBFE4400C4B73E /* IFAWebViewController.m */; };
+		F74ACC291BEBFE9800C4B73E /* Cartfile in Resources */ = {isa = PBXBuildFile; fileRef = F74ACC281BEBFE9800C4B73E /* Cartfile */; };
+		F74ACC2B1BEC00B400C4B73E /* IFAFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F74ACC2A1BEC00B400C4B73E /* IFAFoundation.framework */; };
+		F74ACC2D1BEC00B700C4B73E /* IFACoreUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F74ACC2C1BEC00B700C4B73E /* IFACoreUI.framework */; };
+		F74ACC2F1BEC00BB00C4B73E /* IFAAppUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F74ACC2E1BEC00BB00C4B73E /* IFAAppUI.framework */; };
 		F7650AEE1BE954C600B97932 /* IFAHtml.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F7650AE31BE954C600B97932 /* IFAHtml.framework */; };
 		F7650AF31BE954C600B97932 /* IFAHtmlTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F7650AF21BE954C600B97932 /* IFAHtmlTests.m */; };
 /* End PBXBuildFile section */
@@ -23,8 +39,29 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		107384C775547CBF380CFCA3 /* readme.markdown */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = readme.markdown; sourceTree = "<group>"; };
+		10738BCB7A3C1130558BB9E9 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		F71416071BEFD7AC009F8895 /* IFA_DTHTMLParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IFA_DTHTMLParser.h; sourceTree = "<group>"; };
+		F71416081BEFD7AC009F8895 /* IFA_DTHTMLParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IFA_DTHTMLParser.m; sourceTree = "<group>"; };
+		F714160B1BEFD7FF009F8895 /* IFA_DTWeakSupport.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IFA_DTWeakSupport.h; sourceTree = "<group>"; };
+		F71416131BEFE031009F8895 /* libxml2.2.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libxml2.2.tbd; path = usr/lib/libxml2.2.tbd; sourceTree = SDKROOT; };
+		F71416151BEFE0D4009F8895 /* libxml2.2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.2.dylib; path = ../../../../../../../../usr/lib/libxml2.2.dylib; sourceTree = "<group>"; };
+		F71416181BEFE24A009F8895 /* NSString+IFA_GTM_HTML.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+IFA_GTM_HTML.h"; sourceTree = "<group>"; };
+		F71416191BEFE24A009F8895 /* NSString+IFA_GTM_HTML.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+IFA_GTM_HTML.m"; sourceTree = "<group>"; };
+		F714161A1BEFE24A009F8895 /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
+		F714161B1BEFE24A009F8895 /* NSString+IFA_MW_HTML.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+IFA_MW_HTML.h"; sourceTree = "<group>"; };
+		F714161C1BEFE24A009F8895 /* NSString+IFA_MW_HTML.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+IFA_MW_HTML.m"; sourceTree = "<group>"; };
+		F714161D1BEFE24A009F8895 /* README.markdown */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.markdown; sourceTree = "<group>"; };
+		F74ACC1E1BEBFE4400C4B73E /* IFAHtml.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IFAHtml.h; sourceTree = "<group>"; };
+		F74ACC1F1BEBFE4400C4B73E /* IFAHtmlParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IFAHtmlParser.h; sourceTree = "<group>"; };
+		F74ACC201BEBFE4400C4B73E /* IFAHtmlParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IFAHtmlParser.m; sourceTree = "<group>"; };
+		F74ACC211BEBFE4400C4B73E /* IFAWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IFAWebViewController.h; sourceTree = "<group>"; };
+		F74ACC221BEBFE4400C4B73E /* IFAWebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IFAWebViewController.m; sourceTree = "<group>"; };
+		F74ACC281BEBFE9800C4B73E /* Cartfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Cartfile; path = ../Cartfile; sourceTree = "<group>"; };
+		F74ACC2A1BEC00B400C4B73E /* IFAFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IFAFoundation.framework; path = ../Carthage/Build/iOS/IFAFoundation.framework; sourceTree = "<group>"; };
+		F74ACC2C1BEC00B700C4B73E /* IFACoreUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IFACoreUI.framework; path = ../Carthage/Build/iOS/IFACoreUI.framework; sourceTree = "<group>"; };
+		F74ACC2E1BEC00BB00C4B73E /* IFAAppUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IFAAppUI.framework; path = ../Carthage/Build/iOS/IFAAppUI.framework; sourceTree = "<group>"; };
 		F7650AE31BE954C600B97932 /* IFAHtml.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = IFAHtml.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		F7650AE61BE954C600B97932 /* IFAHtml.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IFAHtml.h; sourceTree = "<group>"; };
 		F7650AE81BE954C600B97932 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F7650AED1BE954C600B97932 /* IFAHtmlTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IFAHtmlTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F7650AF21BE954C600B97932 /* IFAHtmlTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IFAHtmlTests.m; sourceTree = "<group>"; };
@@ -36,6 +73,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F71416161BEFE0D4009F8895 /* libxml2.2.dylib in Frameworks */,
+				F74ACC2B1BEC00B400C4B73E /* IFAFoundation.framework in Frameworks */,
+				F74ACC2D1BEC00B700C4B73E /* IFACoreUI.framework in Frameworks */,
+				F74ACC2F1BEC00BB00C4B73E /* IFAAppUI.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -50,9 +91,56 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		F71416061BEFD7AC009F8895 /* DTFoundation */ = {
+			isa = PBXGroup;
+			children = (
+				F714160B1BEFD7FF009F8895 /* IFA_DTWeakSupport.h */,
+				F71416071BEFD7AC009F8895 /* IFA_DTHTMLParser.h */,
+				F71416081BEFD7AC009F8895 /* IFA_DTHTMLParser.m */,
+				10738BCB7A3C1130558BB9E9 /* LICENSE */,
+				107384C775547CBF380CFCA3 /* readme.markdown */,
+			);
+			name = DTFoundation;
+			path = "3rd party/DTFoundation";
+			sourceTree = "<group>";
+		};
+		F71416171BEFE24A009F8895 /* MWFeedParser */ = {
+			isa = PBXGroup;
+			children = (
+				F71416181BEFE24A009F8895 /* NSString+IFA_GTM_HTML.h */,
+				F71416191BEFE24A009F8895 /* NSString+IFA_GTM_HTML.m */,
+				F714161A1BEFE24A009F8895 /* LICENSE.txt */,
+				F714161B1BEFE24A009F8895 /* NSString+IFA_MW_HTML.h */,
+				F714161C1BEFE24A009F8895 /* NSString+IFA_MW_HTML.m */,
+				F714161D1BEFE24A009F8895 /* README.markdown */,
+			);
+			name = MWFeedParser;
+			path = "3rd party/MWFeedParser";
+			sourceTree = "<group>";
+		};
+		F74ACC1D1BEBFE4400C4B73E /* classes */ = {
+			isa = PBXGroup;
+			children = (
+				F71416171BEFE24A009F8895 /* MWFeedParser */,
+				F71416061BEFD7AC009F8895 /* DTFoundation */,
+				F74ACC1E1BEBFE4400C4B73E /* IFAHtml.h */,
+				F74ACC1F1BEBFE4400C4B73E /* IFAHtmlParser.h */,
+				F74ACC201BEBFE4400C4B73E /* IFAHtmlParser.m */,
+				F74ACC211BEBFE4400C4B73E /* IFAWebViewController.h */,
+				F74ACC221BEBFE4400C4B73E /* IFAWebViewController.m */,
+			);
+			path = classes;
+			sourceTree = "<group>";
+		};
 		F7650AD91BE954C600B97932 = {
 			isa = PBXGroup;
 			children = (
+				F71416151BEFE0D4009F8895 /* libxml2.2.dylib */,
+				F71416131BEFE031009F8895 /* libxml2.2.tbd */,
+				F74ACC2E1BEC00BB00C4B73E /* IFAAppUI.framework */,
+				F74ACC2C1BEC00B700C4B73E /* IFACoreUI.framework */,
+				F74ACC2A1BEC00B400C4B73E /* IFAFoundation.framework */,
+				F74ACC281BEBFE9800C4B73E /* Cartfile */,
 				F7650AE51BE954C600B97932 /* IFAHtml */,
 				F7650AF11BE954C600B97932 /* IFAHtmlTests */,
 				F7650AE41BE954C600B97932 /* Products */,
@@ -71,7 +159,7 @@
 		F7650AE51BE954C600B97932 /* IFAHtml */ = {
 			isa = PBXGroup;
 			children = (
-				F7650AE61BE954C600B97932 /* IFAHtml.h */,
+				F74ACC1D1BEBFE4400C4B73E /* classes */,
 				F7650AE81BE954C600B97932 /* Info.plist */,
 			);
 			path = IFAHtml;
@@ -93,7 +181,13 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F7650AE71BE954C600B97932 /* IFAHtml.h in Headers */,
+				F71416211BEFE24A009F8895 /* NSString+IFA_MW_HTML.h in Headers */,
+				F74ACC241BEBFE4400C4B73E /* IFAHtmlParser.h in Headers */,
+				F74ACC261BEBFE4400C4B73E /* IFAWebViewController.h in Headers */,
+				F71416091BEFD7AC009F8895 /* IFA_DTHTMLParser.h in Headers */,
+				F74ACC231BEBFE4400C4B73E /* IFAHtml.h in Headers */,
+				F714161E1BEFE24A009F8895 /* NSString+IFA_GTM_HTML.h in Headers */,
+				F714160C1BEFD7FF009F8895 /* IFA_DTWeakSupport.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,6 +270,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F74ACC291BEBFE9800C4B73E /* Cartfile in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -193,6 +288,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F74ACC271BEBFE4400C4B73E /* IFAWebViewController.m in Sources */,
+				F714161F1BEFE24A009F8895 /* NSString+IFA_GTM_HTML.m in Sources */,
+				F71416221BEFE24A009F8895 /* NSString+IFA_MW_HTML.m in Sources */,
+				F714160A1BEFD7AC009F8895 /* IFA_DTHTMLParser.m in Sources */,
+				F74ACC251BEBFE4400C4B73E /* IFAHtmlParser.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -238,6 +338,7 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				FRAMEWORK_SEARCH_PATHS = "$(SOURCE_ROOT)/../Carthage/Build/iOS";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -285,6 +386,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = "$(SOURCE_ROOT)/../Carthage/Build/iOS";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -306,6 +408,7 @@
 		F7650AF81BE954C600B97932 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
@@ -316,12 +419,14 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.infoaccent.IFAHtml;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				USER_HEADER_SEARCH_PATHS = "$(SDKROOT)/usr/include/libxml2";
 			};
 			name = Debug;
 		};
 		F7650AF91BE954C600B97932 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
@@ -332,6 +437,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.infoaccent.IFAHtml;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				USER_HEADER_SEARCH_PATHS = "$(SDKROOT)/usr/include/libxml2";
 			};
 			name = Release;
 		};
@@ -374,6 +480,7 @@
 				F7650AF91BE954C600B97932 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F7650AFA1BE954C600B97932 /* Build configuration list for PBXNativeTarget "IFAHtmlTests" */ = {
 			isa = XCConfigurationList;
@@ -382,6 +489,7 @@
 				F7650AFC1BE954C600B97932 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
