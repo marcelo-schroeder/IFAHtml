@@ -31,6 +31,9 @@
       <sourceFolder url="file://$MODULE_DIR$/IFAHtml/IFAHtmlTests/testdata/HtmlParser_testdata3.html" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/IFAHtml/IFAHtmlTests/testdata/HtmlParser_testdata4.html" isTestSource="false" />
     </content>
+    <content url="file://$MODULE_DIR$/IFAHtml.podspec">
+      <sourceFolder url="file://$MODULE_DIR$/IFAHtml.podspec" isTestSource="false" />
+    </content>
     <content url="file://$MODULE_DIR$/IFAHtml.xcworkspace" />
     <content url="file://$MODULE_DIR$/IFAHtml/IFAHtml" />
     <content url="file://$MODULE_DIR$/IFAHtml/IFAHtml.xcodeproj" />

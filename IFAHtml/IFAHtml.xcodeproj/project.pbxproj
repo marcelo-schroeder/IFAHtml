@@ -94,6 +94,7 @@
 		F74ACC2A1BEC00B400C4B73E /* IFAFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IFAFoundation.framework; path = ../Carthage/Build/iOS/IFAFoundation.framework; sourceTree = "<group>"; };
 		F74ACC2C1BEC00B700C4B73E /* IFACoreUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IFACoreUI.framework; path = ../Carthage/Build/iOS/IFACoreUI.framework; sourceTree = "<group>"; };
 		F74ACC2E1BEC00BB00C4B73E /* IFAAppUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IFAAppUI.framework; path = ../Carthage/Build/iOS/IFAAppUI.framework; sourceTree = "<group>"; };
+		F75C51721BF136620003174D /* IFAHtml.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; name = IFAHtml.podspec; path = ../IFAHtml.podspec; sourceTree = "<group>"; };
 		F7650AE31BE954C600B97932 /* IFAHtml.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = IFAHtml.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F7650AE81BE954C600B97932 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F7650AED1BE954C600B97932 /* IFAHtmlTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IFAHtmlTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -208,6 +209,7 @@
 			isa = PBXGroup;
 			children = (
 				F71416301BEFE60E009F8895 /* Podfile */,
+				F75C51721BF136620003174D /* IFAHtml.podspec */,
 				F71416151BEFE0D4009F8895 /* libxml2.2.dylib */,
 				F74ACC2E1BEC00BB00C4B73E /* IFAAppUI.framework */,
 				F74ACC2C1BEC00B700C4B73E /* IFACoreUI.framework */,
