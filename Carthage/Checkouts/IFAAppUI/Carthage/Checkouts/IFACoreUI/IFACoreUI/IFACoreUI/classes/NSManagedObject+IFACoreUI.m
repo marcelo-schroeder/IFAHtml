@@ -1,6 +1,6 @@
 //
 //  NSManagedObject+IFACategory.m
-//  Gusty
+//  IFACoreUI
 //
 //  Created by Marcelo Schroeder on 30/07/10.
 //  Copyright 2010 InfoAccent Pty Limited. All rights reserved.
@@ -53,9 +53,9 @@
 	for (int i = 0; i < [aKeyArray count]; i++) {
 		if (i>0) {
 			if (i==([aKeyArray count]-1)) {
-				[label appendString:NSLocalizedStringFromTable(@" and ", @"GustyKitLocalizable", @"final separator in a list of names")];
+				[label appendString:NSLocalizedStringFromTable(@" and ", @"IFALocalizable", @"final separator in a list of names")];
 			}else {
-				[label appendString:NSLocalizedStringFromTable(@", ", @"GustyKitLocalizable", @"separator in a list of names")];
+				[label appendString:NSLocalizedStringFromTable(@", ", @"IFALocalizable", @"separator in a list of names")];
 			}
 
 		}

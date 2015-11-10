@@ -1,0 +1,19 @@
+platform :ios, '8.0'
+workspace 'DemoApp'
+xcodeproj 'DemoApp/DemoApp'
+link_with 'DemoApp'
+use_frameworks!
+
+target :'DemoApp' do
+
+  # pod 'IFAAppUI'
+  pod 'IFAAppUI', :path => '/Users/mschroeder/myfiles/projects/Xcode/IFAAppUI/IFAAppUI_development'
+  # pod 'IFAAppUI', :git => 'https://github.com/marcelo-schroeder/IFAAppUI.git', :branch => 'master'
+
+  pod 'IFACoreUI', :path => '/Users/mschroeder/myfiles/projects/Xcode/IFACoreUI/IFACoreUI_development'
+  # pod 'IFACoreUI', :git => 'https://github.com/marcelo-schroeder/IFACoreUI.git', :branch => 'master'
+
+  pod 'IFAFoundation', :path => '/Users/mschroeder/myfiles/projects/Xcode/IFAFoundation/IFAFoundation_development'
+  # pod 'IFAFoundation', :git => 'https://github.com/marcelo-schroeder/IFAFoundation.git', :branch => 'master'
+
+end

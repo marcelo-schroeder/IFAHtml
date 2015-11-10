@@ -85,6 +85,9 @@
       <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUITests/classes/IFAUserNotificationSettingsManagerTests.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUITests/Info.plist" isTestSource="false" />
     </content>
+    <content url="file://$MODULE_DIR$/IFAAppUI.podspec">
+      <sourceFolder url="file://$MODULE_DIR$/IFAAppUI.podspec" isTestSource="false" />
+    </content>
     <content url="file://$MODULE_DIR$/IFAAppUI.xcworkspace" />
     <content url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI" />
     <content url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI.xcodeproj" />

@@ -1,6 +1,6 @@
 //
 //  IFADynamicPagingContainerViewControllerDataSource.h
-//  Gusty
+//  IFAAppUI
 //
 //  Created by Marcelo Schroeder on 12/11/11.
 //  Copyright (c) 2011 InfoAccent Pty Limited. All rights reserved.

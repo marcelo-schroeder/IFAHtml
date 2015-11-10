@@ -116,6 +116,7 @@
 		11073E5F26F126F044506310 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "../Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 		26B2D47207A3E7A55B24FDDF /* Pods.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		38AA2460098D8BD7E005D9AF /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "../Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
+		F75C51711BF136190003174D /* IFAAppUI.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; name = IFAAppUI.podspec; path = ../IFAAppUI.podspec; sourceTree = "<group>"; };
 		F7650ABF1BE9548000B97932 /* IFAAppUI.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = IFAAppUI.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F7650AC41BE9548000B97932 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F7650AC91BE9548000B97932 /* IFAAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IFAAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -240,6 +241,7 @@
 				F7650F2F1BEBF4A900B97932 /* IFAFoundation.framework */,
 				F7650F2D1BEBF41900B97932 /* Cartfile */,
 				F7650F361BEBF8AF00B97932 /* Podfile */,
+				F75C51711BF136190003174D /* IFAAppUI.podspec */,
 				F7650AC11BE9548000B97932 /* IFAAppUI */,
 				F7650ACD1BE9548000B97932 /* IFAAppUITests */,
 				F7650AC01BE9548000B97932 /* Products */,
@@ -710,6 +712,7 @@
 				COPY_PHASE_STRIP = NO;
 				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_NS_ASSERTIONS = YES;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				FRAMEWORK_SEARCH_PATHS = "$(SOURCE_ROOT)/../Carthage/Build/iOS";
@@ -758,7 +761,7 @@
 				COPY_PHASE_STRIP = NO;
 				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_NS_ASSERTIONS = YES;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				FRAMEWORK_SEARCH_PATHS = "$(SOURCE_ROOT)/../Carthage/Build/iOS";
 				GCC_C_LANGUAGE_STANDARD = gnu99;

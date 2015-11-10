@@ -1,6 +1,6 @@
 //
 //  IFAAboutFormViewController.m
-//  Gusty
+//  IFAAppUI
 //
 //  Created by Marcelo Schroeder on 20/09/12.
 //  Copyright (c) 2012 InfoAccent Pty Limited. All rights reserved.
@@ -37,13 +37,13 @@
 }
 
 - (void)IFA_onReportBugButtonTap {
-    NSString *l_body = [NSString stringWithFormat:NSLocalizedStringFromTable(@"Hi there,\n\nPlease fix the following bug I have found in %@:", @"GustyKitLocalizable", @"Hi there, Please fix the following bug I have found in <APP_NAME>:"), [IFAUtils appFullName]];
-    [self.IFA_emailManager composeEmailWithSubject:NSLocalizedStringFromTable(@"Bug Report", @"GustyKitLocalizable", nil) recipient:[self IFA_supportEmailAddress] body:l_body];
+    NSString *l_body = [NSString stringWithFormat:NSLocalizedStringFromTable(@"Hi there,\n\nPlease fix the following bug I have found in %@:", @"IFALocalizable", @"Hi there, Please fix the following bug I have found in <APP_NAME>:"), [IFAUtils appFullName]];
+    [self.IFA_emailManager composeEmailWithSubject:NSLocalizedStringFromTable(@"Bug Report", @"IFALocalizable", nil) recipient:[self IFA_supportEmailAddress] body:l_body];
 }
 
 - (void)IFA_onProvideFeedbackButtonTap {
-    NSString *l_body = [NSString stringWithFormat:NSLocalizedStringFromTable(@"Hi there,\n\nI have the following feedback to provide for %@:", @"GustyKitLocalizable", @"Hi there, I have the following feedback to provide for <APP_NAME>:"), [IFAUtils appFullName]];
-    [self.IFA_emailManager composeEmailWithSubject:NSLocalizedStringFromTable(@"Feedback", @"GustyKitLocalizable", nil) recipient:[self IFA_supportEmailAddress] body:l_body];
+    NSString *l_body = [NSString stringWithFormat:NSLocalizedStringFromTable(@"Hi there,\n\nI have the following feedback to provide for %@:", @"IFALocalizable", @"Hi there, I have the following feedback to provide for <APP_NAME>:"), [IFAUtils appFullName]];
+    [self.IFA_emailManager composeEmailWithSubject:NSLocalizedStringFromTable(@"Feedback", @"IFALocalizable", nil) recipient:[self IFA_supportEmailAddress] body:l_body];
 }
 
 - (void)IFA_onForceCrashButtonTap {

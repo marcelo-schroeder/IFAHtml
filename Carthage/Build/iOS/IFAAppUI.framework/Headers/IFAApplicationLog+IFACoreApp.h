@@ -1,6 +1,6 @@
 //
 //  IFAApplicationLog+IFACategory.h
-//  Gusty
+//  IFAAppUI
 //
 //  Created by Marcelo Schroeder on 6/05/11.
 //  Copyright 2011 InfoAccent Pty Limited. All rights reserved.
@@ -17,6 +17,8 @@
 //  See the License for the specific language governing permissions and
 //  limitations under the License.
 //
+
+#import "IFAApplicationLog.h"
 
 @interface IFAApplicationLog (IFACoreApp)
 

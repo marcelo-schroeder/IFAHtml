@@ -1,6 +1,6 @@
 //
 //  IFASingleSelectionListViewController.m
-//  Gusty
+//  IFACoreUI
 //
 //  Created by Marcelo Schroeder on 28/07/10.
 //  Copyright 2010 InfoAccent Pty Limited. All rights reserved.
@@ -54,9 +54,9 @@
         [[NSBundle bundleForClass:[IFAUIUtils class]] loadNibNamed:@"IFASingleSelectionListViewControllerHeaderView" owner:self options:nil];
         NSString *text;
         if (self.disallowDeselection) {
-            text = NSLocalizedStringFromTable(@"Tap any entry below to select it", @"GustyKitLocalizable", nil);
+            text = NSLocalizedStringFromTable(@"Tap any entry below to select it", @"IFALocalizable", nil);
         } else {
-            text = NSLocalizedStringFromTable(@"Tap any entry below to select or deselect it", @"GustyKitLocalizable", nil);
+            text = NSLocalizedStringFromTable(@"Tap any entry below to select or deselect it", @"IFALocalizable", nil);
         }
         _customHeaderView.textLabel.text = text;
     }

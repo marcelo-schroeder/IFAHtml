@@ -1,6 +1,6 @@
 //
 //  IFAThirdPartyCodeCreditsViewController.m
-//  Gusty
+//  IFAAppUI
 //
 //  Created by Marcelo Schroeder on 8/10/12.
 //  Copyright (c) 2012 InfoAccent Pty Limited. All rights reserved.

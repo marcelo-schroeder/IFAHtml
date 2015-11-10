@@ -41,7 +41,7 @@
 + (IFAMenuViewController *)mainMenuViewController;
 
 /**
-* Deprecated as of iOS 8. Use IFAUIUtils' presentAlertController* methods or UIViewController+IFACoreUI's ifa_presentAlertController* methods in GustyKit instead.
+* Deprecated as of iOS 8. Use IFAUIUtils' presentAlertController* methods or UIViewController+IFACoreUI's ifa_presentAlertController* methods in IFACoreUI instead.
 * @param aMessage Alert's message.
 * @param aTitle Alert's title.
 */
@@ -49,7 +49,7 @@
                        title:(NSString *)aTitle;
 
 /**
-* Deprecated as of iOS 8. Use IFAUIUtils' presentAlertController* methods or UIViewController+IFACoreUI's ifa_presentAlertController* methods in GustyKit instead.
+* Deprecated as of iOS 8. Use IFAUIUtils' presentAlertController* methods or UIViewController+IFACoreUI's ifa_presentAlertController* methods in IFACoreUI instead.
 * @param aMessage Alert's message.
 * @param aTitle Alert's title.
 * @param aButtonLabel Button's label.
@@ -59,7 +59,7 @@
                  buttonLabel:(NSString *)aButtonLabel;
 
 /**
-* Deprecated as of iOS 8. Use IFAUIUtils' presentAlertController* methods or UIViewController+IFACoreUI's ifa_presentAlertController* methods in GustyKit instead.
+* Deprecated as of iOS 8. Use IFAUIUtils' presentAlertController* methods or UIViewController+IFACoreUI's ifa_presentAlertController* methods in IFACoreUI instead.
 * @param aMessage Alert's message.
 * @param aTitle Alert's title.
 * @param aDelegate Alert's delegate implementing UIAlertViewDelegate.
@@ -69,7 +69,7 @@
                     delegate:(id)aDelegate;
 
 /**
-* Deprecated as of iOS 8. Use IFAUIUtils' presentAlertController* methods or UIViewController+IFACoreUI's ifa_presentAlertController* methods in GustyKit instead.
+* Deprecated as of iOS 8. Use IFAUIUtils' presentAlertController* methods or UIViewController+IFACoreUI's ifa_presentAlertController* methods in IFACoreUI instead.
 * @param aMessage Alert's message.
 * @param aTitle Alert's title.
 * @param aDelegate Alert's delegate implementing UIAlertViewDelegate.
@@ -81,7 +81,7 @@
                  buttonLabel:(NSString *)aButtonLabel;
 
 /**
-* Deprecated as of iOS 8. Use IFAUIUtils' presentAlertController* methods or UIViewController+IFACoreUI's ifa_presentAlertController* methods in GustyKit instead.
+* Deprecated as of iOS 8. Use IFAUIUtils' presentAlertController* methods or UIViewController+IFACoreUI's ifa_presentAlertController* methods in IFACoreUI instead.
 * @param aMessage Alert's message.
 * @param aTitle Alert's title.
 * @param aDelegate Alert's delegate implementing UIAlertViewDelegate.

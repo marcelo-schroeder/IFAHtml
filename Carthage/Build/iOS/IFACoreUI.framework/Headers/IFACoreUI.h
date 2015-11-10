@@ -1,6 +1,6 @@
 //
-//  GustyKitCore.h
-//  GustyKit
+//  IFACoreUI.h
+//  IFACoreUI
 //
 //  Created by Marcelo Schroeder on 23/08/14.
 //  Copyright (c) 2014 InfoAccent Pty Limited. All rights reserved.
@@ -41,7 +41,6 @@
 #import "IFA_HPGrowingTextView.h"
 #import "IFA_HPTextViewInternal.h"
 
-// GustyKit
 @import IFAFoundation;
 
 #import "IFADefaultAppearanceTheme.h"

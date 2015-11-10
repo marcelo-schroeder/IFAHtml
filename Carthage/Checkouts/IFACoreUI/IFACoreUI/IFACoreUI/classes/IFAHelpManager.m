@@ -1,6 +1,6 @@
 //
 //  IFAHelpManager.m
-//  Gusty
+//  IFACoreUI
 //
 //  Created by Marcelo Schroeder on 22/03/12.
 //  Copyright (c) 2012 InfoAccent Pty Limited. All rights reserved.
@@ -134,7 +134,7 @@
 #pragma mark - Private
 
 -(NSString*)IFA_helpStringForKeyPath:(NSString*)a_keyPath{
-    NSString *l_string = NSLocalizedStringFromTable(a_keyPath, @"GustyKitHelpLocalizable", nil);
+    NSString *l_string = NSLocalizedStringFromTable(a_keyPath, @"IFAHelpLocalizable", nil);
     return [l_string isEqualToString:a_keyPath] ? nil : l_string;
 }
 

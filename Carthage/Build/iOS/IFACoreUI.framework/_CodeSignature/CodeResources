@@ -78,15 +78,15 @@
 		</data>
 		<key>Headers/IFAAbstractFieldEditorViewController.h</key>
 		<data>
-		DbWjbuoaRmRYMZXfshpiNtdeu/4=
+		HmBxbc7iXjNf40hJII54V0vNba8=
 		</data>
 		<key>Headers/IFAAbstractSelectionListViewController.h</key>
 		<data>
-		OX+b4HkalTrUz9y+rs+1uoUzDXY=
+		tIjLhi7QA1ZDyEHT9OB4j4XDrfU=
 		</data>
 		<key>Headers/IFAActionSheet.h</key>
 		<data>
-		kDL5fECxJm7RJ/Rac9BiMOAdgaM=
+		xo6Fg0D4zeivYFQ7U/qgHQ7WwY8=
 		</data>
 		<key>Headers/IFAAnalyticsManager.h</key>
 		<data>
@@ -94,19 +94,19 @@
 		</data>
 		<key>Headers/IFAAppearanceTheme.h</key>
 		<data>
-		ClHYmySW1ZCp9sBLMl8VDRURkWg=
+		rNGFtqO3lxBaOFNXMb1gqoUqCss=
 		</data>
 		<key>Headers/IFAAppearanceThemeManager.h</key>
 		<data>
-		ThCNxbpygTVb0W78yD+CJu1x63Q=
+		QDF9ABauvrA4E57pPZO01pWWrY4=
 		</data>
 		<key>Headers/IFAAsynchronousWorkManager.h</key>
 		<data>
-		cfMOvqa2cTRV9iUjcZNqQLqzcco=
+		SmeIv4Irdb+5CIbc3lJGDQBYkxQ=
 		</data>
 		<key>Headers/IFABlurredFadingOverlayPresentationController.h</key>
 		<data>
-		xUmXj2GsLecmbtl8rBIwOu8IVdg=
+		ISoY6zqkdDx3ZowcYj39Go127qY=
 		</data>
 		<key>Headers/IFABlurredFadingOverlayViewControllerTransitioningDelegate.h</key>
 		<data>
@@ -118,23 +118,23 @@
 		</data>
 		<key>Headers/IFACollectionViewCell.h</key>
 		<data>
-		i/apLVSfoOHnQuASkazviuzWljA=
+		KWgh49j/421xuBOg0IVKvwoL+K4=
 		</data>
 		<key>Headers/IFACollectionViewController.h</key>
 		<data>
-		bT3oi7FArmtVjNXzrnhwhwsL4Ic=
+		5YJ8fdyV8z1igsaYYN3jeDYpKsY=
 		</data>
 		<key>Headers/IFACollectionViewFetchedResultsControllerDelegate.h</key>
 		<data>
-		/Rv77YrSxER6EABrRkzFOxXddKw=
+		c/R+j/wH8n6CtdvDodxW5/90KcY=
 		</data>
 		<key>Headers/IFACollectionViewFlowLayout.h</key>
 		<data>
-		sGJdfeemOaAx6Xnof/80IjXqPEw=
+		MKQ2w1nCu4EP8hIEFIwIJEQB8uw=
 		</data>
 		<key>Headers/IFAColorScheme.h</key>
 		<data>
-		zIiKpUt6Ho2h0R2U3+c7tGbzODs=
+		QvofA3sIbwVJmryTc3nNxgaPeO8=
 		</data>
 		<key>Headers/IFAContextSwitchTarget.h</key>
 		<data>
@@ -146,11 +146,11 @@
 		</data>
 		<key>Headers/IFACoreUI.h</key>
 		<data>
-		ViNtI77GZ8RhDyni6npR+/+3YjI=
+		QzIKmPnHhtjXolNjJNbkNzH1ZHY=
 		</data>
 		<key>Headers/IFACoreUiConstants.h</key>
 		<data>
-		rtErVwpsh25pwlVM/UejO/7ex60=
+		Mf2u1PX03CWIo/6YW3EZ7GDz0nA=
 		</data>
 		<key>Headers/IFACrashReportingUtils.h</key>
 		<data>
@@ -166,11 +166,11 @@
 		</data>
 		<key>Headers/IFADatePickerViewController.h</key>
 		<data>
-		0UUEwoMAVMO6XbKpwOq2H2/QXhY=
+		uTwEYZxRM22hrPQ3BTA4JTsCLeI=
 		</data>
 		<key>Headers/IFADefaultAppearanceTheme.h</key>
 		<data>
-		lwsALMNiYIMzbpvm6Z44RilmTJE=
+		JxIyy8MihK20IJgiWq9C7gnrU0E=
 		</data>
 		<key>Headers/IFADimmedFadingOverlayPresentationController.h</key>
 		<data>
@@ -186,11 +186,11 @@
 		</data>
 		<key>Headers/IFAEntityConfig.h</key>
 		<data>
-		mBVBgdBXgo5CFXwPhDhOoCGz2LQ=
+		I7pwr1n9fUxN7yLLSZQj/5Ze+Is=
 		</data>
 		<key>Headers/IFAEnumerationEntity.h</key>
 		<data>
-		0o5xuYVgBVKkMaBTlXnnx+5jQSE=
+		2ppHqa9wQpHi+CeVE5EAiLowHeM=
 		</data>
 		<key>Headers/IFAFadingOverlayPresentationController.h</key>
 		<data>
@@ -202,7 +202,7 @@
 		</data>
 		<key>Headers/IFAFetchedResultsTableViewController.h</key>
 		<data>
-		2r6U6cPXEjT5jkYCMQLkjp7oAWc=
+		trCuOd2dvILIlBfR06mg5gpBz/E=
 		</data>
 		<key>Headers/IFAFormInputAccessoryView.h</key>
 		<data>
@@ -210,7 +210,7 @@
 		</data>
 		<key>Headers/IFAFormNumberFieldTableViewCell.h</key>
 		<data>
-		RvJrVSwSqzcGgkHZysJKBs+wuhw=
+		yq0XwLu/c39vYxf+A8LDI5uwp8M=
 		</data>
 		<key>Headers/IFAFormSectionHeaderFooterView.h</key>
 		<data>
@@ -218,7 +218,7 @@
 		</data>
 		<key>Headers/IFAFormTableViewCell.h</key>
 		<data>
-		ukLqR9pKxXh/OSpduq72Yos6bQc=
+		rHMOJTZewTkfrRcB0zfaa0w6B/U=
 		</data>
 		<key>Headers/IFAFormTableViewCellContentView.h</key>
 		<data>
@@ -226,11 +226,11 @@
 		</data>
 		<key>Headers/IFAFormTextFieldTableViewCell.h</key>
 		<data>
-		ExUMyBkvSjIsaA1P1qZvC8YsSXk=
+		Htg6rLILY+amDORLdHazFZ1PF9E=
 		</data>
 		<key>Headers/IFAFormViewController.h</key>
 		<data>
-		9kGYyw4lVXk/Z/R+DkWCjxBaMQU=
+		v6+Eo9/R0WrdFdwkJrOYWysf2BU=
 		</data>
 		<key>Headers/IFAGridViewController.h</key>
 		<data>
@@ -242,11 +242,11 @@
 		</data>
 		<key>Headers/IFAHelpManager.h</key>
 		<data>
-		oAnn/3asJcSZUVdF8hi4S6fUTiA=
+		eYbapE0vIluYSdKL4iq+TuDn8oI=
 		</data>
 		<key>Headers/IFAHelpTarget.h</key>
 		<data>
-		26eT49HEe7IDcRzIJD6oJvdIt7s=
+		VjKJJokKQiWoZ1147EiqSTL/bEs=
 		</data>
 		<key>Headers/IFAHelpViewController.h</key>
 		<data>
@@ -254,7 +254,7 @@
 		</data>
 		<key>Headers/IFAHtmlDocument.h</key>
 		<data>
-		dynHxgrqa2xEArCxxDgHXJcYg3M=
+		iRxIgKtd9QJlUsauNUSz2GNjyAM=
 		</data>
 		<key>Headers/IFAHudView.h</key>
 		<data>
@@ -278,7 +278,7 @@
 		</data>
 		<key>Headers/IFAListViewController.h</key>
 		<data>
-		b1bxLJrwedXiYgARC89a1am40Oc=
+		v1TUmCKzf7fMzccu+2gbRGI8+6w=
 		</data>
 		<key>Headers/IFALocationManager.h</key>
 		<data>
@@ -286,11 +286,11 @@
 		</data>
 		<key>Headers/IFALongTextEditorViewController.h</key>
 		<data>
-		hR3WgE6pLJwq/yUN9/DEOmoYcqM=
+		hsYK1cwLUCZcr70AHaFWhCr6wk0=
 		</data>
 		<key>Headers/IFAMapAnnotation.h</key>
 		<data>
-		W4oItH5tREjzZuBoE+frMOy0AXM=
+		fTj/4WrTuYSLy/VLfYNcoleU3eM=
 		</data>
 		<key>Headers/IFAMapSettingsViewController.h</key>
 		<data>
@@ -302,11 +302,11 @@
 		</data>
 		<key>Headers/IFAMenuViewController.h</key>
 		<data>
-		04x5uhkcGoucTQmX4QoTvoQxF/U=
+		j/FF9Om7/zj7eQe9IS+7u9OqZBg=
 		</data>
 		<key>Headers/IFAModalViewController.h</key>
 		<data>
-		e18ORIn1k2d6tkkT20kuyFR2hxM=
+		OC2K4GmHn3wgO40alfdPcb96YuI=
 		</data>
 		<key>Headers/IFAMultipleSelectionListViewCell.h</key>
 		<data>
@@ -314,27 +314,27 @@
 		</data>
 		<key>Headers/IFAMultipleSelectionListViewController.h</key>
 		<data>
-		EoB58t+A/c6tjEp9FybCNA7jB/8=
+		27o9W4RKQ1Ygfxe4wQlq5i3Z6hY=
 		</data>
 		<key>Headers/IFANavigationController.h</key>
 		<data>
-		OUkbq9t061/ZU2I76GecixaFahg=
+		/W28RESTvg6g/Txv9hOV7WWYCLQ=
 		</data>
 		<key>Headers/IFANavigationItemTitleView.h</key>
 		<data>
-		QAh8ukkVwf+/y6xFRd+de2ExayE=
+		ak6kFemjrF+G73s7R7YpCBRTd28=
 		</data>
 		<key>Headers/IFANavigationListViewController.h</key>
 		<data>
-		LElZ3XDv4nG7IUnVlY6NlQd4YDg=
+		TafPNjgqGqnFp6TfoUGBz9HIRFo=
 		</data>
 		<key>Headers/IFAOperation.h</key>
 		<data>
-		EOPUX4rSvOFlqyRWEiQxE/w7z4U=
+		yEeL9kvrPbu7xV4lsc1DC1U0awU=
 		</data>
 		<key>Headers/IFAPageViewController.h</key>
 		<data>
-		EjW3Hv6SMbBAkHkH3/tBcsruLdg=
+		N+tL+p0eWTaFqYjthG0FeXhp6tQ=
 		</data>
 		<key>Headers/IFAPagingContainer.h</key>
 		<data>
@@ -354,7 +354,7 @@
 		</data>
 		<key>Headers/IFAPersistenceManager.h</key>
 		<data>
-		qE3yXMdViVU2yuWs6igM1hsB5aQ=
+		idJ+xCWEHnK7Y+amsphQAxpe/Tg=
 		</data>
 		<key>Headers/IFAPersistentEntityChangeObserver.h</key>
 		<data>
@@ -362,31 +362,31 @@
 		</data>
 		<key>Headers/IFAPickerViewController.h</key>
 		<data>
-		z//O5P9E4nA3fMXttTKLUv3aY44=
+		JN7BKxbYwmcYUPiPhYAPHDbgsac=
 		</data>
 		<key>Headers/IFAPinAnnotationView.h</key>
 		<data>
-		CGjjBnSGP5IAxplScuFBvGIl0cM=
+		NJ2OJc7xzYC+iij3E5Mihyze2eY=
 		</data>
 		<key>Headers/IFAPreferencesManager.h</key>
 		<data>
-		aifipWFkQ0UaKPnZBsoAyBr0k2w=
+		PrtXEBJnuGcvCgq1nAqOCOtnZK0=
 		</data>
 		<key>Headers/IFAPresenter.h</key>
 		<data>
-		IRWH5xC7H5wl3MzRgGUf91PGIks=
+		7/AeFpWIMiQ87WouHuiAbJlcbgI=
 		</data>
 		<key>Headers/IFASegmentedControl.h</key>
 		<data>
-		+NWwlCyYGjUrDdSLpCzGwtknUPU=
+		VHlE3mgurZ+j2i42NBwc/dHkWpg=
 		</data>
 		<key>Headers/IFASegmentedControlTableViewCell.h</key>
 		<data>
-		4aRGZJpV/eTN/bw7D5YkzuE1Pa0=
+		W1HKjR+eciXi+g/bcrMitwl0B5A=
 		</data>
 		<key>Headers/IFASelectionManager.h</key>
 		<data>
-		vuWjpQ2kxDer5ncUFgwsCsNvzss=
+		fhbWX8YmtiVRRNKDOOGVLpjEwZA=
 		</data>
 		<key>Headers/IFASemaphoreManager.h</key>
 		<data>
@@ -394,7 +394,7 @@
 		</data>
 		<key>Headers/IFASingleSelectionListViewController.h</key>
 		<data>
-		r/TVXrl5KzglK0/t7qQxU93E2VU=
+		WfoFLKEfo3SRYwGrm55GbAd7moU=
 		</data>
 		<key>Headers/IFASingleSelectionListViewControllerHeaderView.h</key>
 		<data>
@@ -402,7 +402,7 @@
 		</data>
 		<key>Headers/IFASingleSelectionManager.h</key>
 		<data>
-		JqJc7385D1UiSiJjJEAdYrrQqaQ=
+		v77iPsrpZHMagc8DyGiD5vZnIpU=
 		</data>
 		<key>Headers/IFASlidingFrostedGlassViewController.h</key>
 		<data>
@@ -414,31 +414,31 @@
 		</data>
 		<key>Headers/IFASwitchTableViewCell.h</key>
 		<data>
-		uCHfDev7LGwFK/nQ2IdCD3lAP2M=
+		8ieBeebA2ToVF92e007wD5nRo3E=
 		</data>
 		<key>Headers/IFASystemEntity.h</key>
 		<data>
-		D00W7tc2pWzbkqyfMQISncxT02Y=
+		ZRWG6p+eEW23PQzo/737aHqb1sI=
 		</data>
 		<key>Headers/IFATabBarController.h</key>
 		<data>
-		+oL/A8APCQEibiWiwbZ1vA5L6Mo=
+		f7dkVlI9Xw8KsvLAw4Ag+STGDoc=
 		</data>
 		<key>Headers/IFATableCellSelectedBackgroundView.h</key>
 		<data>
-		NNFqa53gVO/49JALtOMKc0GHtjk=
+		go9yMR3bfZCSkfzp6uuU/2E9u+8=
 		</data>
 		<key>Headers/IFATableSectionHeaderView.h</key>
 		<data>
-		t5OBlCKDd/KoXI3l9RYRVcd76l0=
+		NRHLZnlfMVo9bkkX6TeqBklthWo=
 		</data>
 		<key>Headers/IFATableViewCell.h</key>
 		<data>
-		o/Sx1DRkUHkKMcOr/U6WdKBTdqM=
+		oc/Q6Pe9mGfxOQWaYDE+BqVVgEo=
 		</data>
 		<key>Headers/IFATableViewController.h</key>
 		<data>
-		LXW0QZQFIhLq5CRAVnelwunAmdM=
+		IN4lwYPE0yhUNaef9sXwVr+iJbU=
 		</data>
 		<key>Headers/IFATableViewHeaderFooterView.h</key>
 		<data>
@@ -446,11 +446,11 @@
 		</data>
 		<key>Headers/IFATextViewContainer.h</key>
 		<data>
-		wOFHO2hKUtSC+lPYvI5gAq9HKjo=
+		EcLqSApIoNoObObIFrS8idjQ9bo=
 		</data>
 		<key>Headers/IFATextViewController.h</key>
 		<data>
-		bOwd2sbk919z/KBItFxgzBxtQcg=
+		ELmn2nuBZUC4o6IPyUihhfAQhxY=
 		</data>
 		<key>Headers/IFAUIConfiguration.h</key>
 		<data>
@@ -462,15 +462,15 @@
 		</data>
 		<key>Headers/IFAUIUtils.h</key>
 		<data>
-		lUC/RMhBvklNRo8a8Cqdf3XrUuc=
+		68ZXO1yrA2jaztJ5cpSERzA/3VI=
 		</data>
 		<key>Headers/IFAView.h</key>
 		<data>
-		vvIKNF6bz0MtYmpamo23KbEDU9I=
+		inMKLmh7+PRTEE6NzaWNP6ENmGc=
 		</data>
 		<key>Headers/IFAViewController.h</key>
 		<data>
-		gYcYqIhnrYyLNyEg0l2TKVCzWLQ=
+		yjRPsh7gQj3IRUmClSpL2z6YAhQ=
 		</data>
 		<key>Headers/IFAViewControllerAnimatedTransitioning.h</key>
 		<data>
@@ -486,7 +486,7 @@
 		</data>
 		<key>Headers/IFAWorkInProgressModalViewManager.h</key>
 		<data>
-		B9yd+Gjs/1v5NJYU2ZIZRM/MfhI=
+		s2giuVvDYX5FjI4JOzaDk5wLr7Q=
 		</data>
 		<key>Headers/IFA_HPGrowingTextView.h</key>
 		<data>
@@ -510,11 +510,11 @@
 		</data>
 		<key>Headers/NSManagedObject+IFACoreUI.h</key>
 		<data>
-		paAh5owL98+BEGPu3sb94pFr1hQ=
+		5sB8lxOdWflMpmcp8oHqXXcqZxE=
 		</data>
 		<key>Headers/NSManagedObjectContext+IFACoreUI.h</key>
 		<data>
-		YoNu8bweHfmOqv2nOPOzz+eLyzc=
+		dQKj82JoG4ZhH9LQ0X9YoKi6yXs=
 		</data>
 		<key>Headers/NSMutableArray+IFACoreUI.h</key>
 		<data>
@@ -522,7 +522,7 @@
 		</data>
 		<key>Headers/NSObject+IFACoreUI.h</key>
 		<data>
-		2TgiFHZhNUJibuaCxQCILtAc6UA=
+		WueQkHQp0mEaiPjFl1Sd5CRhMgc=
 		</data>
 		<key>Headers/UIAlertController+IFACoreUI.h</key>
 		<data>
@@ -530,7 +530,7 @@
 		</data>
 		<key>Headers/UIBarButtonItem+IFACoreUI.h</key>
 		<data>
-		R8GwqL/QMuY9A/q8UOi3PXhZ0aw=
+		2RSVEERLV6810YE77aLtKnXOZKo=
 		</data>
 		<key>Headers/UIButton+IFACoreUI.h</key>
 		<data>
@@ -546,7 +546,7 @@
 		</data>
 		<key>Headers/UIColor+IFACoreUI.h</key>
 		<data>
-		5VTHec84qOEVZb9h5690kPHx0+o=
+		6VTihbgV+aLpVNUn/ppmQVSW7NE=
 		</data>
 		<key>Headers/UIColor+IFACoreUI_WatchKit.h</key>
 		<data>
@@ -554,11 +554,11 @@
 		</data>
 		<key>Headers/UIImage+IFACoreUI.h</key>
 		<data>
-		WAPzsi6V/6zjKAgRoyRq/dP3bwc=
+		Yq8/shRhY2GRaqAPC8Rzy6c2EUY=
 		</data>
 		<key>Headers/UIPopoverController+IFACoreUI.h</key>
 		<data>
-		iEFi0cAM1NDESA6CQxQTmWFHgAY=
+		GHGj3sptm+1EfJDyvI/0PehYZYE=
 		</data>
 		<key>Headers/UIScrollView+IFACoreUI.h</key>
 		<data>
@@ -570,7 +570,7 @@
 		</data>
 		<key>Headers/UITableView+IFACoreUI.h</key>
 		<data>
-		/fyhv+BkxUbHMgd/Ioy9Te6NlmU=
+		Ya1Xv6baZ2In4khiNLmzCvdV8yA=
 		</data>
 		<key>Headers/UITableViewCell+IFACoreUI.h</key>
 		<data>
@@ -582,11 +582,11 @@
 		</data>
 		<key>Headers/UIView+IFACoreUI.h</key>
 		<data>
-		0NVHXIzJh1rlfBqy8nRMZ4pX0DE=
+		noHbSvdsfpiC4Jl7RBseTd+0U/g=
 		</data>
 		<key>Headers/UIViewController+IFACoreUI.h</key>
 		<data>
-		uR8tx1JDUjctGHKU9kIpGco5NsQ=
+		aE/x9FQ1Gk3D4OUsB6vXkrefjFE=
 		</data>
 		<key>Headers/UIViewController+IFAHelp.h</key>
 		<data>
@@ -598,7 +598,7 @@
 		</data>
 		<key>Headers/UIWebView+IFACoreUI.h</key>
 		<data>
-		dO74OzsWnJuwa8uGrkYfwBrk5uQ=
+		gf9J78hQGGicOoZ57WaEJuWFqiI=
 		</data>
 		<key>IFAEntityConfig.plist</key>
 		<data>
@@ -606,19 +606,19 @@
 		</data>
 		<key>IFAFormInputAccessoryContentView.nib</key>
 		<data>
-		g3h6UJJ8IOR5QvmbpzpXelUOBUs=
+		beeCd0MR/J9A0Q+mGEBOt+EJ6aY=
 		</data>
 		<key>IFAFormSectionFooterContentView.nib</key>
 		<data>
-		ziWRbZbpFi62rpiDKY/ZO0JzX74=
+		WM5WBZ11GFW93BySZ3smR4a0KJg=
 		</data>
 		<key>IFAFormSectionHeaderView.nib</key>
 		<data>
-		HKqs/jZo08UzofQOIlPLp+DOgmY=
+		Gad5rvpo7jTNKOxVlKdIiNRKJwg=
 		</data>
 		<key>IFAFormTableViewCellContentView.nib</key>
 		<data>
-		FJBIV52GS7333DS1rwZgMcFl41M=
+		RK6/GY6AJB3aux88DVuW1yXrxzE=
 		</data>
 		<key>IFAHelpViewControllerWebView.css</key>
 		<data>
@@ -634,23 +634,23 @@
 		</data>
 		<key>IFAMapSettingsViewController.storyboardc/UIViewController-j5z-ZF-NNu.nib</key>
 		<data>
-		D1z6UKVjXVLid5pSOnuexgm1BuA=
+		SHOW72mwyYAV/CjVOSvKNFGeugw=
 		</data>
 		<key>IFAMapSettingsViewController.storyboardc/j5z-ZF-NNu-view-eaC-bC-Ppg.nib</key>
 		<data>
-		Vj+eEf+8o1/4w5iv6bbjk0mVaaw=
+		xRDcCSMZWgjQkc5Gq7FJyO/9vso=
 		</data>
 		<key>IFAMultipleSelectionListViewCell.nib</key>
 		<data>
-		WIoJppwkRHLhWJLKqlgtZ/IfD0A=
+		iNzuy/JJcMn2HODthlmH2aGvCoc=
 		</data>
 		<key>IFASingleSelectionListViewControllerHeaderView.nib</key>
 		<data>
-		uqG5D+HAzmuVMPCcIDv0ls9twIc=
+		/MXp9ywLTj1zMYxHcHeYDCTqdIM=
 		</data>
 		<key>IFATableSectionHeaderView.nib</key>
 		<data>
-		19MpR3NQlDT8UCIaLAeHMKAA4yg=
+		mn8VY3fDCyjP8OtB4XRqzeDs9mA=
 		</data>
 		<key>IFA_1PixelLineHorizontalBottom.png</key>
 		<data>
@@ -832,10 +832,6 @@
 		<data>
 		Ddj/G0kZ+56ShGkWwBcDRdszSyc=
 		</data>
-		<key>Podfile</key>
-		<data>
-		3yTxdgNY6uAgCdqbQb1ZT5jl4NI=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -913,15 +909,15 @@
 		</data>
 		<key>Headers/IFAAbstractFieldEditorViewController.h</key>
 		<data>
-		DbWjbuoaRmRYMZXfshpiNtdeu/4=
+		HmBxbc7iXjNf40hJII54V0vNba8=
 		</data>
 		<key>Headers/IFAAbstractSelectionListViewController.h</key>
 		<data>
-		OX+b4HkalTrUz9y+rs+1uoUzDXY=
+		tIjLhi7QA1ZDyEHT9OB4j4XDrfU=
 		</data>
 		<key>Headers/IFAActionSheet.h</key>
 		<data>
-		kDL5fECxJm7RJ/Rac9BiMOAdgaM=
+		xo6Fg0D4zeivYFQ7U/qgHQ7WwY8=
 		</data>
 		<key>Headers/IFAAnalyticsManager.h</key>
 		<data>
@@ -929,19 +925,19 @@
 		</data>
 		<key>Headers/IFAAppearanceTheme.h</key>
 		<data>
-		ClHYmySW1ZCp9sBLMl8VDRURkWg=
+		rNGFtqO3lxBaOFNXMb1gqoUqCss=
 		</data>
 		<key>Headers/IFAAppearanceThemeManager.h</key>
 		<data>
-		ThCNxbpygTVb0W78yD+CJu1x63Q=
+		QDF9ABauvrA4E57pPZO01pWWrY4=
 		</data>
 		<key>Headers/IFAAsynchronousWorkManager.h</key>
 		<data>
-		cfMOvqa2cTRV9iUjcZNqQLqzcco=
+		SmeIv4Irdb+5CIbc3lJGDQBYkxQ=
 		</data>
 		<key>Headers/IFABlurredFadingOverlayPresentationController.h</key>
 		<data>
-		xUmXj2GsLecmbtl8rBIwOu8IVdg=
+		ISoY6zqkdDx3ZowcYj39Go127qY=
 		</data>
 		<key>Headers/IFABlurredFadingOverlayViewControllerTransitioningDelegate.h</key>
 		<data>
@@ -953,23 +949,23 @@
 		</data>
 		<key>Headers/IFACollectionViewCell.h</key>
 		<data>
-		i/apLVSfoOHnQuASkazviuzWljA=
+		KWgh49j/421xuBOg0IVKvwoL+K4=
 		</data>
 		<key>Headers/IFACollectionViewController.h</key>
 		<data>
-		bT3oi7FArmtVjNXzrnhwhwsL4Ic=
+		5YJ8fdyV8z1igsaYYN3jeDYpKsY=
 		</data>
 		<key>Headers/IFACollectionViewFetchedResultsControllerDelegate.h</key>
 		<data>
-		/Rv77YrSxER6EABrRkzFOxXddKw=
+		c/R+j/wH8n6CtdvDodxW5/90KcY=
 		</data>
 		<key>Headers/IFACollectionViewFlowLayout.h</key>
 		<data>
-		sGJdfeemOaAx6Xnof/80IjXqPEw=
+		MKQ2w1nCu4EP8hIEFIwIJEQB8uw=
 		</data>
 		<key>Headers/IFAColorScheme.h</key>
 		<data>
-		zIiKpUt6Ho2h0R2U3+c7tGbzODs=
+		QvofA3sIbwVJmryTc3nNxgaPeO8=
 		</data>
 		<key>Headers/IFAContextSwitchTarget.h</key>
 		<data>
@@ -981,11 +977,11 @@
 		</data>
 		<key>Headers/IFACoreUI.h</key>
 		<data>
-		ViNtI77GZ8RhDyni6npR+/+3YjI=
+		QzIKmPnHhtjXolNjJNbkNzH1ZHY=
 		</data>
 		<key>Headers/IFACoreUiConstants.h</key>
 		<data>
-		rtErVwpsh25pwlVM/UejO/7ex60=
+		Mf2u1PX03CWIo/6YW3EZ7GDz0nA=
 		</data>
 		<key>Headers/IFACrashReportingUtils.h</key>
 		<data>
@@ -1001,11 +997,11 @@
 		</data>
 		<key>Headers/IFADatePickerViewController.h</key>
 		<data>
-		0UUEwoMAVMO6XbKpwOq2H2/QXhY=
+		uTwEYZxRM22hrPQ3BTA4JTsCLeI=
 		</data>
 		<key>Headers/IFADefaultAppearanceTheme.h</key>
 		<data>
-		lwsALMNiYIMzbpvm6Z44RilmTJE=
+		JxIyy8MihK20IJgiWq9C7gnrU0E=
 		</data>
 		<key>Headers/IFADimmedFadingOverlayPresentationController.h</key>
 		<data>
@@ -1021,11 +1017,11 @@
 		</data>
 		<key>Headers/IFAEntityConfig.h</key>
 		<data>
-		mBVBgdBXgo5CFXwPhDhOoCGz2LQ=
+		I7pwr1n9fUxN7yLLSZQj/5Ze+Is=
 		</data>
 		<key>Headers/IFAEnumerationEntity.h</key>
 		<data>
-		0o5xuYVgBVKkMaBTlXnnx+5jQSE=
+		2ppHqa9wQpHi+CeVE5EAiLowHeM=
 		</data>
 		<key>Headers/IFAFadingOverlayPresentationController.h</key>
 		<data>
@@ -1037,7 +1033,7 @@
 		</data>
 		<key>Headers/IFAFetchedResultsTableViewController.h</key>
 		<data>
-		2r6U6cPXEjT5jkYCMQLkjp7oAWc=
+		trCuOd2dvILIlBfR06mg5gpBz/E=
 		</data>
 		<key>Headers/IFAFormInputAccessoryView.h</key>
 		<data>
@@ -1045,7 +1041,7 @@
 		</data>
 		<key>Headers/IFAFormNumberFieldTableViewCell.h</key>
 		<data>
-		RvJrVSwSqzcGgkHZysJKBs+wuhw=
+		yq0XwLu/c39vYxf+A8LDI5uwp8M=
 		</data>
 		<key>Headers/IFAFormSectionHeaderFooterView.h</key>
 		<data>
@@ -1053,7 +1049,7 @@
 		</data>
 		<key>Headers/IFAFormTableViewCell.h</key>
 		<data>
-		ukLqR9pKxXh/OSpduq72Yos6bQc=
+		rHMOJTZewTkfrRcB0zfaa0w6B/U=
 		</data>
 		<key>Headers/IFAFormTableViewCellContentView.h</key>
 		<data>
@@ -1061,11 +1057,11 @@
 		</data>
 		<key>Headers/IFAFormTextFieldTableViewCell.h</key>
 		<data>
-		ExUMyBkvSjIsaA1P1qZvC8YsSXk=
+		Htg6rLILY+amDORLdHazFZ1PF9E=
 		</data>
 		<key>Headers/IFAFormViewController.h</key>
 		<data>
-		9kGYyw4lVXk/Z/R+DkWCjxBaMQU=
+		v6+Eo9/R0WrdFdwkJrOYWysf2BU=
 		</data>
 		<key>Headers/IFAGridViewController.h</key>
 		<data>
@@ -1077,11 +1073,11 @@
 		</data>
 		<key>Headers/IFAHelpManager.h</key>
 		<data>
-		oAnn/3asJcSZUVdF8hi4S6fUTiA=
+		eYbapE0vIluYSdKL4iq+TuDn8oI=
 		</data>
 		<key>Headers/IFAHelpTarget.h</key>
 		<data>
-		26eT49HEe7IDcRzIJD6oJvdIt7s=
+		VjKJJokKQiWoZ1147EiqSTL/bEs=
 		</data>
 		<key>Headers/IFAHelpViewController.h</key>
 		<data>
@@ -1089,7 +1085,7 @@
 		</data>
 		<key>Headers/IFAHtmlDocument.h</key>
 		<data>
-		dynHxgrqa2xEArCxxDgHXJcYg3M=
+		iRxIgKtd9QJlUsauNUSz2GNjyAM=
 		</data>
 		<key>Headers/IFAHudView.h</key>
 		<data>
@@ -1113,7 +1109,7 @@
 		</data>
 		<key>Headers/IFAListViewController.h</key>
 		<data>
-		b1bxLJrwedXiYgARC89a1am40Oc=
+		v1TUmCKzf7fMzccu+2gbRGI8+6w=
 		</data>
 		<key>Headers/IFALocationManager.h</key>
 		<data>
@@ -1121,11 +1117,11 @@
 		</data>
 		<key>Headers/IFALongTextEditorViewController.h</key>
 		<data>
-		hR3WgE6pLJwq/yUN9/DEOmoYcqM=
+		hsYK1cwLUCZcr70AHaFWhCr6wk0=
 		</data>
 		<key>Headers/IFAMapAnnotation.h</key>
 		<data>
-		W4oItH5tREjzZuBoE+frMOy0AXM=
+		fTj/4WrTuYSLy/VLfYNcoleU3eM=
 		</data>
 		<key>Headers/IFAMapSettingsViewController.h</key>
 		<data>
@@ -1137,11 +1133,11 @@
 		</data>
 		<key>Headers/IFAMenuViewController.h</key>
 		<data>
-		04x5uhkcGoucTQmX4QoTvoQxF/U=
+		j/FF9Om7/zj7eQe9IS+7u9OqZBg=
 		</data>
 		<key>Headers/IFAModalViewController.h</key>
 		<data>
-		e18ORIn1k2d6tkkT20kuyFR2hxM=
+		OC2K4GmHn3wgO40alfdPcb96YuI=
 		</data>
 		<key>Headers/IFAMultipleSelectionListViewCell.h</key>
 		<data>
@@ -1149,27 +1145,27 @@
 		</data>
 		<key>Headers/IFAMultipleSelectionListViewController.h</key>
 		<data>
-		EoB58t+A/c6tjEp9FybCNA7jB/8=
+		27o9W4RKQ1Ygfxe4wQlq5i3Z6hY=
 		</data>
 		<key>Headers/IFANavigationController.h</key>
 		<data>
-		OUkbq9t061/ZU2I76GecixaFahg=
+		/W28RESTvg6g/Txv9hOV7WWYCLQ=
 		</data>
 		<key>Headers/IFANavigationItemTitleView.h</key>
 		<data>
-		QAh8ukkVwf+/y6xFRd+de2ExayE=
+		ak6kFemjrF+G73s7R7YpCBRTd28=
 		</data>
 		<key>Headers/IFANavigationListViewController.h</key>
 		<data>
-		LElZ3XDv4nG7IUnVlY6NlQd4YDg=
+		TafPNjgqGqnFp6TfoUGBz9HIRFo=
 		</data>
 		<key>Headers/IFAOperation.h</key>
 		<data>
-		EOPUX4rSvOFlqyRWEiQxE/w7z4U=
+		yEeL9kvrPbu7xV4lsc1DC1U0awU=
 		</data>
 		<key>Headers/IFAPageViewController.h</key>
 		<data>
-		EjW3Hv6SMbBAkHkH3/tBcsruLdg=
+		N+tL+p0eWTaFqYjthG0FeXhp6tQ=
 		</data>
 		<key>Headers/IFAPagingContainer.h</key>
 		<data>
@@ -1189,7 +1185,7 @@
 		</data>
 		<key>Headers/IFAPersistenceManager.h</key>
 		<data>
-		qE3yXMdViVU2yuWs6igM1hsB5aQ=
+		idJ+xCWEHnK7Y+amsphQAxpe/Tg=
 		</data>
 		<key>Headers/IFAPersistentEntityChangeObserver.h</key>
 		<data>
@@ -1197,31 +1193,31 @@
 		</data>
 		<key>Headers/IFAPickerViewController.h</key>
 		<data>
-		z//O5P9E4nA3fMXttTKLUv3aY44=
+		JN7BKxbYwmcYUPiPhYAPHDbgsac=
 		</data>
 		<key>Headers/IFAPinAnnotationView.h</key>
 		<data>
-		CGjjBnSGP5IAxplScuFBvGIl0cM=
+		NJ2OJc7xzYC+iij3E5Mihyze2eY=
 		</data>
 		<key>Headers/IFAPreferencesManager.h</key>
 		<data>
-		aifipWFkQ0UaKPnZBsoAyBr0k2w=
+		PrtXEBJnuGcvCgq1nAqOCOtnZK0=
 		</data>
 		<key>Headers/IFAPresenter.h</key>
 		<data>
-		IRWH5xC7H5wl3MzRgGUf91PGIks=
+		7/AeFpWIMiQ87WouHuiAbJlcbgI=
 		</data>
 		<key>Headers/IFASegmentedControl.h</key>
 		<data>
-		+NWwlCyYGjUrDdSLpCzGwtknUPU=
+		VHlE3mgurZ+j2i42NBwc/dHkWpg=
 		</data>
 		<key>Headers/IFASegmentedControlTableViewCell.h</key>
 		<data>
-		4aRGZJpV/eTN/bw7D5YkzuE1Pa0=
+		W1HKjR+eciXi+g/bcrMitwl0B5A=
 		</data>
 		<key>Headers/IFASelectionManager.h</key>
 		<data>
-		vuWjpQ2kxDer5ncUFgwsCsNvzss=
+		fhbWX8YmtiVRRNKDOOGVLpjEwZA=
 		</data>
 		<key>Headers/IFASemaphoreManager.h</key>
 		<data>
@@ -1229,7 +1225,7 @@
 		</data>
 		<key>Headers/IFASingleSelectionListViewController.h</key>
 		<data>
-		r/TVXrl5KzglK0/t7qQxU93E2VU=
+		WfoFLKEfo3SRYwGrm55GbAd7moU=
 		</data>
 		<key>Headers/IFASingleSelectionListViewControllerHeaderView.h</key>
 		<data>
@@ -1237,7 +1233,7 @@
 		</data>
 		<key>Headers/IFASingleSelectionManager.h</key>
 		<data>
-		JqJc7385D1UiSiJjJEAdYrrQqaQ=
+		v77iPsrpZHMagc8DyGiD5vZnIpU=
 		</data>
 		<key>Headers/IFASlidingFrostedGlassViewController.h</key>
 		<data>
@@ -1249,31 +1245,31 @@
 		</data>
 		<key>Headers/IFASwitchTableViewCell.h</key>
 		<data>
-		uCHfDev7LGwFK/nQ2IdCD3lAP2M=
+		8ieBeebA2ToVF92e007wD5nRo3E=
 		</data>
 		<key>Headers/IFASystemEntity.h</key>
 		<data>
-		D00W7tc2pWzbkqyfMQISncxT02Y=
+		ZRWG6p+eEW23PQzo/737aHqb1sI=
 		</data>
 		<key>Headers/IFATabBarController.h</key>
 		<data>
-		+oL/A8APCQEibiWiwbZ1vA5L6Mo=
+		f7dkVlI9Xw8KsvLAw4Ag+STGDoc=
 		</data>
 		<key>Headers/IFATableCellSelectedBackgroundView.h</key>
 		<data>
-		NNFqa53gVO/49JALtOMKc0GHtjk=
+		go9yMR3bfZCSkfzp6uuU/2E9u+8=
 		</data>
 		<key>Headers/IFATableSectionHeaderView.h</key>
 		<data>
-		t5OBlCKDd/KoXI3l9RYRVcd76l0=
+		NRHLZnlfMVo9bkkX6TeqBklthWo=
 		</data>
 		<key>Headers/IFATableViewCell.h</key>
 		<data>
-		o/Sx1DRkUHkKMcOr/U6WdKBTdqM=
+		oc/Q6Pe9mGfxOQWaYDE+BqVVgEo=
 		</data>
 		<key>Headers/IFATableViewController.h</key>
 		<data>
-		LXW0QZQFIhLq5CRAVnelwunAmdM=
+		IN4lwYPE0yhUNaef9sXwVr+iJbU=
 		</data>
 		<key>Headers/IFATableViewHeaderFooterView.h</key>
 		<data>
@@ -1281,11 +1277,11 @@
 		</data>
 		<key>Headers/IFATextViewContainer.h</key>
 		<data>
-		wOFHO2hKUtSC+lPYvI5gAq9HKjo=
+		EcLqSApIoNoObObIFrS8idjQ9bo=
 		</data>
 		<key>Headers/IFATextViewController.h</key>
 		<data>
-		bOwd2sbk919z/KBItFxgzBxtQcg=
+		ELmn2nuBZUC4o6IPyUihhfAQhxY=
 		</data>
 		<key>Headers/IFAUIConfiguration.h</key>
 		<data>
@@ -1297,15 +1293,15 @@
 		</data>
 		<key>Headers/IFAUIUtils.h</key>
 		<data>
-		lUC/RMhBvklNRo8a8Cqdf3XrUuc=
+		68ZXO1yrA2jaztJ5cpSERzA/3VI=
 		</data>
 		<key>Headers/IFAView.h</key>
 		<data>
-		vvIKNF6bz0MtYmpamo23KbEDU9I=
+		inMKLmh7+PRTEE6NzaWNP6ENmGc=
 		</data>
 		<key>Headers/IFAViewController.h</key>
 		<data>
-		gYcYqIhnrYyLNyEg0l2TKVCzWLQ=
+		yjRPsh7gQj3IRUmClSpL2z6YAhQ=
 		</data>
 		<key>Headers/IFAViewControllerAnimatedTransitioning.h</key>
 		<data>
@@ -1321,7 +1317,7 @@
 		</data>
 		<key>Headers/IFAWorkInProgressModalViewManager.h</key>
 		<data>
-		B9yd+Gjs/1v5NJYU2ZIZRM/MfhI=
+		s2giuVvDYX5FjI4JOzaDk5wLr7Q=
 		</data>
 		<key>Headers/IFA_HPGrowingTextView.h</key>
 		<data>
@@ -1345,11 +1341,11 @@
 		</data>
 		<key>Headers/NSManagedObject+IFACoreUI.h</key>
 		<data>
-		paAh5owL98+BEGPu3sb94pFr1hQ=
+		5sB8lxOdWflMpmcp8oHqXXcqZxE=
 		</data>
 		<key>Headers/NSManagedObjectContext+IFACoreUI.h</key>
 		<data>
-		YoNu8bweHfmOqv2nOPOzz+eLyzc=
+		dQKj82JoG4ZhH9LQ0X9YoKi6yXs=
 		</data>
 		<key>Headers/NSMutableArray+IFACoreUI.h</key>
 		<data>
@@ -1357,7 +1353,7 @@
 		</data>
 		<key>Headers/NSObject+IFACoreUI.h</key>
 		<data>
-		2TgiFHZhNUJibuaCxQCILtAc6UA=
+		WueQkHQp0mEaiPjFl1Sd5CRhMgc=
 		</data>
 		<key>Headers/UIAlertController+IFACoreUI.h</key>
 		<data>
@@ -1365,7 +1361,7 @@
 		</data>
 		<key>Headers/UIBarButtonItem+IFACoreUI.h</key>
 		<data>
-		R8GwqL/QMuY9A/q8UOi3PXhZ0aw=
+		2RSVEERLV6810YE77aLtKnXOZKo=
 		</data>
 		<key>Headers/UIButton+IFACoreUI.h</key>
 		<data>
@@ -1381,7 +1377,7 @@
 		</data>
 		<key>Headers/UIColor+IFACoreUI.h</key>
 		<data>
-		5VTHec84qOEVZb9h5690kPHx0+o=
+		6VTihbgV+aLpVNUn/ppmQVSW7NE=
 		</data>
 		<key>Headers/UIColor+IFACoreUI_WatchKit.h</key>
 		<data>
@@ -1389,11 +1385,11 @@
 		</data>
 		<key>Headers/UIImage+IFACoreUI.h</key>
 		<data>
-		WAPzsi6V/6zjKAgRoyRq/dP3bwc=
+		Yq8/shRhY2GRaqAPC8Rzy6c2EUY=
 		</data>
 		<key>Headers/UIPopoverController+IFACoreUI.h</key>
 		<data>
-		iEFi0cAM1NDESA6CQxQTmWFHgAY=
+		GHGj3sptm+1EfJDyvI/0PehYZYE=
 		</data>
 		<key>Headers/UIScrollView+IFACoreUI.h</key>
 		<data>
@@ -1405,7 +1401,7 @@
 		</data>
 		<key>Headers/UITableView+IFACoreUI.h</key>
 		<data>
-		/fyhv+BkxUbHMgd/Ioy9Te6NlmU=
+		Ya1Xv6baZ2In4khiNLmzCvdV8yA=
 		</data>
 		<key>Headers/UITableViewCell+IFACoreUI.h</key>
 		<data>
@@ -1417,11 +1413,11 @@
 		</data>
 		<key>Headers/UIView+IFACoreUI.h</key>
 		<data>
-		0NVHXIzJh1rlfBqy8nRMZ4pX0DE=
+		noHbSvdsfpiC4Jl7RBseTd+0U/g=
 		</data>
 		<key>Headers/UIViewController+IFACoreUI.h</key>
 		<data>
-		uR8tx1JDUjctGHKU9kIpGco5NsQ=
+		aE/x9FQ1Gk3D4OUsB6vXkrefjFE=
 		</data>
 		<key>Headers/UIViewController+IFAHelp.h</key>
 		<data>
@@ -1433,7 +1429,7 @@
 		</data>
 		<key>Headers/UIWebView+IFACoreUI.h</key>
 		<data>
-		dO74OzsWnJuwa8uGrkYfwBrk5uQ=
+		gf9J78hQGGicOoZ57WaEJuWFqiI=
 		</data>
 		<key>IFAEntityConfig.plist</key>
 		<data>
@@ -1441,19 +1437,19 @@
 		</data>
 		<key>IFAFormInputAccessoryContentView.nib</key>
 		<data>
-		g3h6UJJ8IOR5QvmbpzpXelUOBUs=
+		beeCd0MR/J9A0Q+mGEBOt+EJ6aY=
 		</data>
 		<key>IFAFormSectionFooterContentView.nib</key>
 		<data>
-		ziWRbZbpFi62rpiDKY/ZO0JzX74=
+		WM5WBZ11GFW93BySZ3smR4a0KJg=
 		</data>
 		<key>IFAFormSectionHeaderView.nib</key>
 		<data>
-		HKqs/jZo08UzofQOIlPLp+DOgmY=
+		Gad5rvpo7jTNKOxVlKdIiNRKJwg=
 		</data>
 		<key>IFAFormTableViewCellContentView.nib</key>
 		<data>
-		FJBIV52GS7333DS1rwZgMcFl41M=
+		RK6/GY6AJB3aux88DVuW1yXrxzE=
 		</data>
 		<key>IFAHelpViewControllerWebView.css</key>
 		<data>
@@ -1469,23 +1465,23 @@
 		</data>
 		<key>IFAMapSettingsViewController.storyboardc/UIViewController-j5z-ZF-NNu.nib</key>
 		<data>
-		D1z6UKVjXVLid5pSOnuexgm1BuA=
+		SHOW72mwyYAV/CjVOSvKNFGeugw=
 		</data>
 		<key>IFAMapSettingsViewController.storyboardc/j5z-ZF-NNu-view-eaC-bC-Ppg.nib</key>
 		<data>
-		Vj+eEf+8o1/4w5iv6bbjk0mVaaw=
+		xRDcCSMZWgjQkc5Gq7FJyO/9vso=
 		</data>
 		<key>IFAMultipleSelectionListViewCell.nib</key>
 		<data>
-		WIoJppwkRHLhWJLKqlgtZ/IfD0A=
+		iNzuy/JJcMn2HODthlmH2aGvCoc=
 		</data>
 		<key>IFASingleSelectionListViewControllerHeaderView.nib</key>
 		<data>
-		uqG5D+HAzmuVMPCcIDv0ls9twIc=
+		/MXp9ywLTj1zMYxHcHeYDCTqdIM=
 		</data>
 		<key>IFATableSectionHeaderView.nib</key>
 		<data>
-		19MpR3NQlDT8UCIaLAeHMKAA4yg=
+		mn8VY3fDCyjP8OtB4XRqzeDs9mA=
 		</data>
 		<key>IFA_1PixelLineHorizontalBottom.png</key>
 		<data>
@@ -1662,10 +1658,6 @@
 		<key>Modules/module.modulemap</key>
 		<data>
 		Ddj/G0kZ+56ShGkWwBcDRdszSyc=
-		</data>
-		<key>Podfile</key>
-		<data>
-		3yTxdgNY6uAgCdqbQb1ZT5jl4NI=
 		</data>
 	</dict>
 	<key>rules</key>

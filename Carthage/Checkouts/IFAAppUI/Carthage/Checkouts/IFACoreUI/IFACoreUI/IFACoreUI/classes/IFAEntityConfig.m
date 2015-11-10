@@ -1,6 +1,6 @@
 //
 //  IFAEntityConfig.m
-//  Gusty
+//  IFACoreUI
 //
 //  Created by Marcelo Schroeder on 26/07/10.
 //  Copyright 2010 InfoAccent Pty Limited. All rights reserved.
@@ -101,7 +101,7 @@
 }
 
 - (NSString *)localisedStringForKey:(NSString *)a_key {
-    return NSLocalizedStringFromTable(a_key, @"GustyKitEntityConfigLocalizable", nil);
+    return NSLocalizedStringFromTable(a_key, @"IFAEntityConfigLocalizable", nil);
 }
 
 - (NSDictionary *)formSectionDictionaryAtIndex:(NSInteger)a_sectionIndex

@@ -6,19 +6,19 @@
 	<dict>
 		<key>Headers/IFAAboutFormViewController.h</key>
 		<data>
-		E8ka4/hD149aP32dXGnI+q9xOS4=
+		Dl9m8/w+Nj5Qvc8Fg/pV6a4Q3TU=
 		</data>
 		<key>Headers/IFAAboutInfoModel.h</key>
 		<data>
-		oZ68GSZ20Cp5DqQl0PicOpSBMkY=
+		lRPCV0uDmg5p3qGtamwee3kHRgM=
 		</data>
 		<key>Headers/IFAAboutViewController.h</key>
 		<data>
-		Y3ZTFWjvDMAML0oKVz/WMTwX1RM=
+		Lvarrdmy5pvUMaVGb9TROlmXQuU=
 		</data>
 		<key>Headers/IFAAbstractPagingContainerViewController.h</key>
 		<data>
-		fNdvoVbxm/7i4pK3lZa2poWU/CY=
+		hlHCgQ5IkbCHsDQYZw8WYy6GAuA=
 		</data>
 		<key>Headers/IFAAbstractWebBrowserActivity.h</key>
 		<data>
@@ -34,35 +34,35 @@
 		</data>
 		<key>Headers/IFAAppUI.h</key>
 		<data>
-		EpOdnBAou/VDONVYwNTDH/uJzpA=
+		AXm1ahsMXaGZgVseOnMzW54Y0AE=
 		</data>
 		<key>Headers/IFAApplicationDelegate.h</key>
 		<data>
-		Od3M4s+73RyH+TQA2fBnLtf+T7o=
+		5dquGUbkDxPjJeSLoPF4A3jtzgQ=
 		</data>
 		<key>Headers/IFAApplicationLog+IFACoreApp.h</key>
 		<data>
-		o/h9nBjub5QKWaNIrdJpBTV1i9A=
+		nwmXe0m2snP/MbG/Df8XSYTf/Ao=
 		</data>
 		<key>Headers/IFAApplicationLog.h</key>
 		<data>
-		67lnwEbRvcaYBfmfzM+bs7DY0jg=
+		dHz1mKrN4DdT3cHHw49RxiOo24s=
 		</data>
 		<key>Headers/IFAApplicationLogViewController.h</key>
 		<data>
-		9g6cP9kOcbxiNsiIHAFsjwLmYPs=
+		BVl5Z4zBTSU/vWA3QbB+G5fIkRs=
 		</data>
 		<key>Headers/IFADynamicPagingContainerViewController.h</key>
 		<data>
-		X/hpjjmKbwDUIqpH8Jevshczvdo=
+		5DMOy/wv5Goz9WDWCBsx3+9gQR8=
 		</data>
 		<key>Headers/IFADynamicPagingContainerViewControllerDataSource.h</key>
 		<data>
-		zz+/G9RLXwlWmYtg6JkVSYsj8/E=
+		O3ZFkKoY+M+1GwPpjxLtDvzgAdU=
 		</data>
 		<key>Headers/IFAEmailManager.h</key>
 		<data>
-		BF9i49iPlcl+Vxd4m/lv4CuNLIg=
+		No6S2CpPXEyVmLTg9OSAPfgqSL0=
 		</data>
 		<key>Headers/IFAExternalWebBrowserActivity.h</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Headers/IFAInternalWebBrowserActivity.h</key>
 		<data>
-		UrVEQtF/R1wevaQ4S/dMhLmrR6g=
+		6q1pObJsQ7H2Keo0IWCf8UoIrLs=
 		</data>
 		<key>Headers/IFAInternalWebBrowserViewController.h</key>
 		<data>
@@ -86,27 +86,27 @@
 		</data>
 		<key>Headers/IFAPreferencesFormViewController.h</key>
 		<data>
-		eeCpyWgjB31dTdByTap3LnxqlEw=
+		wNwYNOyzJbtM7XbH2sVxL+PEUlk=
 		</data>
 		<key>Headers/IFASlidingViewController.h</key>
 		<data>
-		14yB8Kdt4goW7/1dHVCb7DQ9a0Q=
+		4WTiiaY3crB14tDyZTReVrdN268=
 		</data>
 		<key>Headers/IFASplitViewController.h</key>
 		<data>
-		ASFX0B5s5JjYRewebU9w+lp5kPE=
+		FE2mHqmG2IoAfql8XOAjsbqKXgY=
 		</data>
 		<key>Headers/IFAStaticPagingContainerViewController.h</key>
 		<data>
-		THZY0Ic6dLd1/pannQkbu0NbOq0=
+		Qd9yoQCn4yTvBnVTb8dF6WgwNGQ=
 		</data>
 		<key>Headers/IFAThirdPartyCodeCreditsViewController.h</key>
 		<data>
-		f4kGxLyvx9TcuOdm/FmUSW/x9QE=
+		eztwYna6fYw6SYaUQaK9fjF6/u0=
 		</data>
 		<key>Headers/IFAUIUtils+IFACoreApp.h</key>
 		<data>
-		QhPClklW1xl8Sq8dUkaVbtOHBDI=
+		mGNbmf+BeUcxMnD+Pako7w/Y+TI=
 		</data>
 		<key>Headers/IFAUserNotificationSettingsManager.h</key>
 		<data>
@@ -142,7 +142,7 @@
 		</data>
 		<key>IFAAboutCustomView.nib</key>
 		<data>
-		scmJQXwcDS8TCdKSruWVI/MwoL4=
+		DuLT/1zlb7x0soyqb/1YbGuuHSE=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -201,19 +201,19 @@
 	<dict>
 		<key>Headers/IFAAboutFormViewController.h</key>
 		<data>
-		E8ka4/hD149aP32dXGnI+q9xOS4=
+		Dl9m8/w+Nj5Qvc8Fg/pV6a4Q3TU=
 		</data>
 		<key>Headers/IFAAboutInfoModel.h</key>
 		<data>
-		oZ68GSZ20Cp5DqQl0PicOpSBMkY=
+		lRPCV0uDmg5p3qGtamwee3kHRgM=
 		</data>
 		<key>Headers/IFAAboutViewController.h</key>
 		<data>
-		Y3ZTFWjvDMAML0oKVz/WMTwX1RM=
+		Lvarrdmy5pvUMaVGb9TROlmXQuU=
 		</data>
 		<key>Headers/IFAAbstractPagingContainerViewController.h</key>
 		<data>
-		fNdvoVbxm/7i4pK3lZa2poWU/CY=
+		hlHCgQ5IkbCHsDQYZw8WYy6GAuA=
 		</data>
 		<key>Headers/IFAAbstractWebBrowserActivity.h</key>
 		<data>
@@ -229,35 +229,35 @@
 		</data>
 		<key>Headers/IFAAppUI.h</key>
 		<data>
-		EpOdnBAou/VDONVYwNTDH/uJzpA=
+		AXm1ahsMXaGZgVseOnMzW54Y0AE=
 		</data>
 		<key>Headers/IFAApplicationDelegate.h</key>
 		<data>
-		Od3M4s+73RyH+TQA2fBnLtf+T7o=
+		5dquGUbkDxPjJeSLoPF4A3jtzgQ=
 		</data>
 		<key>Headers/IFAApplicationLog+IFACoreApp.h</key>
 		<data>
-		o/h9nBjub5QKWaNIrdJpBTV1i9A=
+		nwmXe0m2snP/MbG/Df8XSYTf/Ao=
 		</data>
 		<key>Headers/IFAApplicationLog.h</key>
 		<data>
-		67lnwEbRvcaYBfmfzM+bs7DY0jg=
+		dHz1mKrN4DdT3cHHw49RxiOo24s=
 		</data>
 		<key>Headers/IFAApplicationLogViewController.h</key>
 		<data>
-		9g6cP9kOcbxiNsiIHAFsjwLmYPs=
+		BVl5Z4zBTSU/vWA3QbB+G5fIkRs=
 		</data>
 		<key>Headers/IFADynamicPagingContainerViewController.h</key>
 		<data>
-		X/hpjjmKbwDUIqpH8Jevshczvdo=
+		5DMOy/wv5Goz9WDWCBsx3+9gQR8=
 		</data>
 		<key>Headers/IFADynamicPagingContainerViewControllerDataSource.h</key>
 		<data>
-		zz+/G9RLXwlWmYtg6JkVSYsj8/E=
+		O3ZFkKoY+M+1GwPpjxLtDvzgAdU=
 		</data>
 		<key>Headers/IFAEmailManager.h</key>
 		<data>
-		BF9i49iPlcl+Vxd4m/lv4CuNLIg=
+		No6S2CpPXEyVmLTg9OSAPfgqSL0=
 		</data>
 		<key>Headers/IFAExternalWebBrowserActivity.h</key>
 		<data>
@@ -265,7 +265,7 @@
 		</data>
 		<key>Headers/IFAInternalWebBrowserActivity.h</key>
 		<data>
-		UrVEQtF/R1wevaQ4S/dMhLmrR6g=
+		6q1pObJsQ7H2Keo0IWCf8UoIrLs=
 		</data>
 		<key>Headers/IFAInternalWebBrowserViewController.h</key>
 		<data>
@@ -281,27 +281,27 @@
 		</data>
 		<key>Headers/IFAPreferencesFormViewController.h</key>
 		<data>
-		eeCpyWgjB31dTdByTap3LnxqlEw=
+		wNwYNOyzJbtM7XbH2sVxL+PEUlk=
 		</data>
 		<key>Headers/IFASlidingViewController.h</key>
 		<data>
-		14yB8Kdt4goW7/1dHVCb7DQ9a0Q=
+		4WTiiaY3crB14tDyZTReVrdN268=
 		</data>
 		<key>Headers/IFASplitViewController.h</key>
 		<data>
-		ASFX0B5s5JjYRewebU9w+lp5kPE=
+		FE2mHqmG2IoAfql8XOAjsbqKXgY=
 		</data>
 		<key>Headers/IFAStaticPagingContainerViewController.h</key>
 		<data>
-		THZY0Ic6dLd1/pannQkbu0NbOq0=
+		Qd9yoQCn4yTvBnVTb8dF6WgwNGQ=
 		</data>
 		<key>Headers/IFAThirdPartyCodeCreditsViewController.h</key>
 		<data>
-		f4kGxLyvx9TcuOdm/FmUSW/x9QE=
+		eztwYna6fYw6SYaUQaK9fjF6/u0=
 		</data>
 		<key>Headers/IFAUIUtils+IFACoreApp.h</key>
 		<data>
-		QhPClklW1xl8Sq8dUkaVbtOHBDI=
+		mGNbmf+BeUcxMnD+Pako7w/Y+TI=
 		</data>
 		<key>Headers/IFAUserNotificationSettingsManager.h</key>
 		<data>
@@ -337,7 +337,7 @@
 		</data>
 		<key>IFAAboutCustomView.nib</key>
 		<data>
-		scmJQXwcDS8TCdKSruWVI/MwoL4=
+		DuLT/1zlb7x0soyqb/1YbGuuHSE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>

@@ -1,0 +1,26 @@
+PODS:
+  - IFAAppUI (1.0.0):
+    - IFACoreUI
+  - IFACoreUI (1.0.0):
+    - IFAFoundation
+  - IFAFoundation (1.0.0)
+
+DEPENDENCIES:
+  - IFAAppUI (from `/Users/mschroeder/myfiles/projects/Xcode/IFAAppUI/IFAAppUI_development`)
+  - IFACoreUI (from `/Users/mschroeder/myfiles/projects/Xcode/IFACoreUI/IFACoreUI_development`)
+  - IFAFoundation (from `/Users/mschroeder/myfiles/projects/Xcode/IFAFoundation/IFAFoundation_development`)
+
+EXTERNAL SOURCES:
+  IFAAppUI:
+    :path: /Users/mschroeder/myfiles/projects/Xcode/IFAAppUI/IFAAppUI_development
+  IFACoreUI:
+    :path: /Users/mschroeder/myfiles/projects/Xcode/IFACoreUI/IFACoreUI_development
+  IFAFoundation:
+    :path: /Users/mschroeder/myfiles/projects/Xcode/IFAFoundation/IFAFoundation_development
+
+SPEC CHECKSUMS:
+  IFAAppUI: e6f589b0235799e16c47180d5bbea00194fe31f6
+  IFACoreUI: a2929319d0d56c459a8722d4db56c71a48f0f52b
+  IFAFoundation: 2376e5fc0bc5f88e1d135d63fbde5f188bb752d5
+
+COCOAPODS: 0.39.0

@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CIDR_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/..">
+      <sourceFolder url="file://$MODULE_DIR$/DemoApp/DemoApp/AppDelegate.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DemoApp/DemoApp/Base.lproj/LaunchScreen.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DemoApp/DemoApp/Base.lproj/Main.storyboard" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DemoApp/DemoApp/BlurAndVibrancyStyleViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DemoApp/DemoApp/ContainmentChildViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DemoApp/DemoApp/ContainmentViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DemoApp/DemoApp/DemoApp-Bridging-Header.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DemoApp/DemoApp/ImageCreditsViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DemoApp/DemoApp/Images.xcassets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DemoApp/DemoApp/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DemoApp/DemoApp/MenuViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DemoApp/DemoApp/MultipleHudsViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DemoApp/DemoApp/TableViewCell.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DemoApp/DemoAppTests/DemoAppTests.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DemoApp/DemoAppTests/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Podfile" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/IFAAppUI/IFAAppUI-dummy.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/IFAAppUI/IFAAppUI-prefix.pch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/IFAAppUI/IFAAppUI-umbrella.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/IFAAppUI/IFAAppUI.modulemap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/IFAAppUI/IFAAppUI.xcconfig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/IFAAppUI/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/IFACoreUI/IFACoreUI-dummy.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/IFACoreUI/IFACoreUI-prefix.pch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/IFACoreUI/IFACoreUI-umbrella.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/IFACoreUI/IFACoreUI.modulemap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/IFACoreUI/IFACoreUI.xcconfig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/IFACoreUI/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/IFAFoundation/IFAFoundation-dummy.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/IFAFoundation/IFAFoundation-prefix.pch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/IFAFoundation/IFAFoundation-umbrella.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/IFAFoundation/IFAFoundation.modulemap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/IFAFoundation/IFAFoundation.xcconfig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/IFAFoundation/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-DemoApp/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-DemoApp/Pods-DemoApp-acknowledgements.markdown" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-DemoApp/Pods-DemoApp-acknowledgements.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-DemoApp/Pods-DemoApp-dummy.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-DemoApp/Pods-DemoApp-frameworks.sh" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-DemoApp/Pods-DemoApp-resources.sh" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-DemoApp/Pods-DemoApp-umbrella.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-DemoApp/Pods-DemoApp.debug.xcconfig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-DemoApp/Pods-DemoApp.modulemap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-DemoApp/Pods-DemoApp.release.xcconfig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/3rd party/ECSlidingViewController/IFA_ECSlidingViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/3rd party/ECSlidingViewController/IFA_ECSlidingViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/3rd party/ECSlidingViewController/UIImage+IFA_ECImageWithUIView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/3rd party/ECSlidingViewController/UIImage+IFA_ECImageWithUIView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/3rd party/IBActionSheet/IFA_IBActionSheet.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/3rd party/IBActionSheet/IFA_IBActionSheet.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/3rd party/SVWebViewController/IFA_SVModalWebViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/3rd party/SVWebViewController/IFA_SVModalWebViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/3rd party/SVWebViewController/IFA_SVWebViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/3rd party/SVWebViewController/IFA_SVWebViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAAboutFormViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAAboutFormViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAAboutInfoModel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAAboutInfoModel.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAAboutViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAAboutViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAAbstractPagingContainerViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAAbstractPagingContainerViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAAbstractWebBrowserActivity.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAAbstractWebBrowserActivity.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAAppDefaultAppearanceTheme.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAAppDefaultAppearanceTheme.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAApplicationDelegate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAApplicationDelegate.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAApplicationLog+IFACoreApp.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAApplicationLog+IFACoreApp.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAApplicationLog.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAApplicationLog.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAApplicationLogViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAApplicationLogViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAAppMapViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAAppMapViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAAppUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFADynamicPagingContainerViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFADynamicPagingContainerViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFADynamicPagingContainerViewControllerDataSource.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAEmailManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAEmailManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAExternalWebBrowserActivity.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAExternalWebBrowserActivity.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAInternalWebBrowserActivity.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAInternalWebBrowserActivity.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAInternalWebBrowserViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAInternalWebBrowserViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAMasterDetailViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAMasterDetailViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAPhoneServiceManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAPhoneServiceManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAPreferencesFormViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAPreferencesFormViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFASlidingViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFASlidingViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFASplitViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFASplitViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAStaticPagingContainerViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAStaticPagingContainerViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAThirdPartyCodeCreditsViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAThirdPartyCodeCreditsViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAUIUtils+IFACoreApp.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAUIUtils+IFACoreApp.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAUserNotificationSettingsManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/IFAUserNotificationSettingsManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/NSURL+IFACoreApp.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/NSURL+IFACoreApp.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/UIViewController+IFACoreApp.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/classes/UIViewController+IFACoreApp.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/resources/3rd party/iconshock.com/internalWebBrowserActivity@2x~ipad.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/resources/3rd party/iconshock.com/internalWebBrowserActivity@2x~iphone.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/resources/3rd party/iconshock.com/internalWebBrowserActivity~ipad.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/resources/3rd party/iconshock.com/internalWebBrowserActivity~iphone.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/resources/3rd party/SVWebViewController/SVWebViewController.bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../IFAAppUI/IFAAppUI/resources/IFAAboutCustomView.xib" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development">
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/3rd party/HPGrowingTextView/IFA_HPGrowingTextView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/3rd party/HPGrowingTextView/IFA_HPGrowingTextView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/3rd party/HPGrowingTextView/IFA_HPTextViewInternal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/3rd party/HPGrowingTextView/IFA_HPTextViewInternal.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/3rd party/KNSemiModal/UIViewController+IFA_KNSemiModal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/3rd party/KNSemiModal/UIViewController+IFA_KNSemiModal.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/3rd party/ODRefreshControl/IFA_ODRefreshControl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/3rd party/ODRefreshControl/IFA_ODRefreshControl.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAAbstractFieldEditorViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAAbstractFieldEditorViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAAbstractSelectionListViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAAbstractSelectionListViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAActionSheet.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAActionSheet.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAAnalyticsManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAAnalyticsManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAAppearanceTheme.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAAppearanceThemeManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAAppearanceThemeManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAAsynchronousWorkManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAAsynchronousWorkManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFABlurredFadingOverlayPresentationController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFABlurredFadingOverlayPresentationController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFABlurredFadingOverlayViewControllerTransitioningDelegate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFABlurredFadingOverlayViewControllerTransitioningDelegate.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFACircleView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFACircleView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFACollectionViewCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFACollectionViewCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFACollectionViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFACollectionViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFACollectionViewFetchedResultsControllerDelegate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFACollectionViewFetchedResultsControllerDelegate.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFACollectionViewFlowLayout.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFACollectionViewFlowLayout.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAColorScheme.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAColorScheme.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAContextSwitchingManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAContextSwitchingManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAContextSwitchTarget.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFACoreUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFACoreUiConstants.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFACoreUiConstants.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFACrashReportingUtils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFACrashReportingUtils.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFACurrentLocationManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFACurrentLocationManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFACustomLayoutSupport.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFACustomLayoutSupport.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFADatePickerViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFADatePickerViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFADefaultAppearanceTheme.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFADefaultAppearanceTheme.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFADimmedFadingOverlayPresentationController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFADimmedFadingOverlayPresentationController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFADimmedFadingOverlayViewControllerTransitioningDelegate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFADimmedFadingOverlayViewControllerTransitioningDelegate.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFADirectionsManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFADirectionsManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAEntityConfig.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAEntityConfig.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAEnumerationEntity.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAEnumerationEntity.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAFadingOverlayPresentationController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAFadingOverlayPresentationController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAFadingOverlayViewControllerTransitioningDelegate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAFadingOverlayViewControllerTransitioningDelegate.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAFetchedResultsTableViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAFetchedResultsTableViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAFormInputAccessoryView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAFormInputAccessoryView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAFormNumberFieldTableViewCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAFormNumberFieldTableViewCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAFormSectionHeaderFooterView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAFormSectionHeaderFooterView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAFormTableViewCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAFormTableViewCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAFormTableViewCellContentView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAFormTableViewCellContentView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAFormTextFieldTableViewCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAFormTextFieldTableViewCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAFormViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAFormViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAGridViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAGridViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAHelpContentViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAHelpContentViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAHelpManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAHelpManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAHelpTarget.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAHelpViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAHelpViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAHtmlDocument.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAHtmlDocument.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAHudView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAHudView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAHudViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAHudViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAHudWrapperViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAHudWrapperViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAKeyboardVisibilityManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAKeyboardVisibilityManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFALazyTableDataLoadingViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFALazyTableDataLoadingViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAListViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAListViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFALocationManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFALocationManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFALongTextEditorViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFALongTextEditorViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAMapAnnotation.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAMapAnnotation.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAMapSettingsViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAMapSettingsViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAMapViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAMapViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAMenuViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAMenuViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAModalViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAModalViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAMultipleSelectionListViewCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAMultipleSelectionListViewCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAMultipleSelectionListViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAMultipleSelectionListViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFANavigationController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFANavigationController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFANavigationItemTitleView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFANavigationItemTitleView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFANavigationListViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFANavigationListViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAOperation.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAOperation.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAPageViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAPageViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAPagingContainer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAPagingStateManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAPagingStateManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAPassthroughView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAPassthroughView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAPersistenceChangeDetector.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAPersistenceChangeDetector.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAPersistenceManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAPersistenceManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAPersistentEntityChangeObserver.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAPersistentEntityChangeObserver.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAPickerViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAPickerViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAPinAnnotationView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAPinAnnotationView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAPreferencesManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAPreferencesManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAPresenter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFASegmentedControl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFASegmentedControl.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFASegmentedControlTableViewCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFASegmentedControlTableViewCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFASelectionManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFASelectionManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFASemaphoreManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFASemaphoreManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFASingleSelectionListViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFASingleSelectionListViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFASingleSelectionListViewControllerHeaderView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFASingleSelectionListViewControllerHeaderView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFASingleSelectionManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFASingleSelectionManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFASlidingFrostedGlassViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFASlidingFrostedGlassViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFASubjectActivityItem.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFASubjectActivityItem.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFASwitchTableViewCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFASwitchTableViewCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFASystemEntity.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFASystemEntity.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFATabBarController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFATabBarController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFATableCellSelectedBackgroundView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFATableCellSelectedBackgroundView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFATableSectionHeaderView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFATableSectionHeaderView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFATableViewCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFATableViewCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFATableViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFATableViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFATableViewHeaderFooterView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFATableViewHeaderFooterView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFATextViewContainer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFATextViewContainer.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFATextViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFATextViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAUIConfiguration.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAUIConfiguration.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAUIGlobal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAUIGlobal.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAUIUtils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAUIUtils.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAViewControllerAnimatedTransitioning.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAViewControllerAnimatedTransitioning.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAViewControllerFadeTransitioning.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAViewControllerFadeTransitioning.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAViewControllerTransitioningDelegate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAViewControllerTransitioningDelegate.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAWorkInProgressModalViewManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAWorkInProgressModalViewManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/NSAttributedString+IFACoreUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/NSAttributedString+IFACoreUI.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/NSIndexPath+IFACoreUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/NSIndexPath+IFACoreUI.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/NSManagedObject+IFACoreUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/NSManagedObject+IFACoreUI.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/NSManagedObjectContext+IFACoreUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/NSManagedObjectContext+IFACoreUI.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/NSMutableArray+IFACoreUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/NSMutableArray+IFACoreUI.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/NSObject+IFACoreUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/NSObject+IFACoreUI.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIAlertController+IFACoreUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIAlertController+IFACoreUI.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIBarButtonItem+IFACoreUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIBarButtonItem+IFACoreUI.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIButton+IFACoreUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIButton+IFACoreUI.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIButton+IFAHelp.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIButton+IFAHelp.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UICollectionView+IFACoreUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UICollectionView+IFACoreUI.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIColor+IFACoreUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIColor+IFACoreUI.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIColor+IFACoreUI_WatchKit.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIColor+IFACoreUI_WatchKit.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIImage+IFACoreUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIImage+IFACoreUI.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIPopoverController+IFACoreUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIPopoverController+IFACoreUI.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIScrollView+IFACoreUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIScrollView+IFACoreUI.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIStoryboard+IFACoreUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIStoryboard+IFACoreUI.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UITableView+IFACoreUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UITableView+IFACoreUI.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UITableViewCell+IFACoreUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UITableViewCell+IFACoreUI.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UITableViewController+IFADynamicCellHeight.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UITableViewController+IFADynamicCellHeight.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIView+IFACoreUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIView+IFACoreUI.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIViewController+IFACoreUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIViewController+IFACoreUI.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIViewController+IFAHelp.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIViewController+IFAHelp.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIWebView+IFACoreUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIWebView+IFACoreUI.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/3rd party/billybarker.net/056-PlusCircle.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/3rd party/billybarker.net/056-PlusCircle@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/3rd party/billybarker.net/191-ArrowHead-left.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/3rd party/billybarker.net/191-ArrowHead-left@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/3rd party/billybarker.net/191-ArrowHead-right.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/3rd party/billybarker.net/191-ArrowHead-right@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/3rd party/billybarker.net/248-QuestionCircleAlt.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/3rd party/billybarker.net/248-QuestionCircleAlt@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/3rd party/billybarker.net/248-QuestionCircleAlt_black.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/3rd party/billybarker.net/248-QuestionCircleAlt_black@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/3rd party/billybarker.net/271-ThreeColumn.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/3rd party/billybarker.net/271-ThreeColumn@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/3rd party/billybarker.net/277-MultiplyCircle-black.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/3rd party/billybarker.net/277-MultiplyCircle-black@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/3rd party/billybarker.net/277-MultiplyCircle-white.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/3rd party/billybarker.net/277-MultiplyCircle-white@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/3rd party/billybarker.net/310-RemoveButton.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/3rd party/billybarker.net/310-RemoveButton@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/3rd party/billybarker.net/License.rtf" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/IFA_Icon_Help_normal.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/IFA_Icon_Help_normal@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/IFA_Icon_Help_selected.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/IFA_Icon_Help_selected@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/IFAEntityConfig.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/IFAFormInputAccessoryContentView.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/IFAFormSectionFooterContentView.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/IFAFormSectionHeaderView.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/IFAFormTableViewCellContentView.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/IFAHelpViewControllerWebView.css" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/IFAHtmlTemplate.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/IFAMapSettingsViewController.storyboard" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/IFAMultipleSelectionListViewCell.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/IFASingleSelectionListViewControllerHeaderView.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/IFATableSectionHeaderView.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_1PixelLineHorizontalBottom.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_1PixelLineHorizontalBottom@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_1PixelLineHorizontalTop.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_1PixelLineHorizontalTop@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_1PixelLineVerticalLeft.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_1PixelLineVerticalLeft@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_1PixelLineVerticalRight.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_1PixelLineVerticalRight@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_Icon_Add.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_Icon_AddToSelection.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_Icon_AddToSelection@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_Icon_Close.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_Icon_Close@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_ICon_Delete.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_ICon_Delete@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_Icon_DisclosureIndicatorDown.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_Icon_DisclosureIndicatorDown@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_Icon_DisclosureIndicatorRight.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_Icon_DisclosureIndicatorRight@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_Icon_HudError.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_Icon_HudError@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_Icon_HudError@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_Icon_HudSuccess.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_Icon_HudSuccess@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_Icon_HudSuccess@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_Icon_Info.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_Icon_Info@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_Icon_List.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_Icon_List@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_Icon_Next.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_Icon_Next@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_Icon_Previous.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_Icon_Previous@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_Icon_RemoveFromSelection.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_Icon_RemoveFromSelection@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_Icon_UserLocation.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_Icon_UserLocation@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_TextViewBorder.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/resources/images/IFA_TextViewBorder@2x.png" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development">
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/IFAAssertionUtils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/IFAAssertionUtils.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/IFADateRange.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/IFADateRange.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/IFADispatchQueueManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/IFADispatchQueueManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/IFADynamicCache.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/IFADynamicCache.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/IFAFoundation.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/IFAFoundationConstants.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/IFAFoundationConstants.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/IFAPurgeableObject.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/IFAPurgeableObject.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/IFAUtils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/IFAUtils.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/IFAZeroingWeakReferenceContainer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/IFAZeroingWeakReferenceContainer.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/NSCalendar+IFAFoundation.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/NSCalendar+IFAFoundation.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/NSData+IFAFoundation.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/NSData+IFAFoundation.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/NSDate+IFAFoundation.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/NSDate+IFAFoundation.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/NSDictionary+IFAFoundation.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/NSDictionary+IFAFoundation.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/NSFileManager+IFAFoundation.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/NSFileManager+IFAFoundation.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/NSNumberFormatter+IFAFoundation.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/NSNumberFormatter+IFAFoundation.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/NSObject+IFAFoundation.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/NSObject+IFAFoundation.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/NSString+IFAFoundation.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/NSString+IFAFoundation.m" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vImage.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accounts.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AddressBook.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AdSupport.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AssetsLibrary.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AudioUnit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVFoundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CFNetwork.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CloudKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Contacts.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ContactsUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreAudio.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreAudioKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreBluetooth.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreData.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreImage.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreLocation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMedia.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMIDI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMotion.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreSpotlight.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreTelephony.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreText.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreVideo.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/EventKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/EventKitUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ExternalAccessory.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameController.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameplayKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GLKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GSS.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HealthKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HomeKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/iAd.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ImageIO.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/JavaScriptCore.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/LocalAuthentication.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MapKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaAccessibility.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MessageUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Metal.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MetalKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MetalPerformanceShaders.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ModelIO.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MultipeerConnectivity.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NetworkExtension.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NewsstandKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NotificationCenter.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/OpenAL.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/OpenGLES.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PassKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Photos.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PhotosUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PushKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuartzCore.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuickLook.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ReplayKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SafariServices.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SceneKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Security.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Social.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SpriteKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/StoreKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Twitter.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/VideoToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WatchConnectivity.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WatchKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WebKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/7.0.0/include" />
+          <root url="file:///Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/DTPerformanceSession.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers" />
+          <root url="file://$MODULE_DIR$/Pods/Headers/Private" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vImage.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accounts.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AddressBook.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AdSupport.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AssetsLibrary.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AudioUnit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVFoundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CFNetwork.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CloudKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Contacts.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ContactsUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreAudio.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreAudioKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreBluetooth.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreData.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreImage.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreLocation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMedia.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMIDI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMotion.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreSpotlight.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreTelephony.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreText.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreVideo.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/EventKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/EventKitUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ExternalAccessory.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameController.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameplayKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GLKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GSS.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HealthKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HomeKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/iAd.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ImageIO.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/JavaScriptCore.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/LocalAuthentication.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MapKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaAccessibility.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MessageUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Metal.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MetalKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MetalPerformanceShaders.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ModelIO.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MultipeerConnectivity.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NetworkExtension.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NewsstandKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NotificationCenter.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/OpenAL.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/OpenGLES.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PassKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Photos.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PhotosUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PushKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuartzCore.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuickLook.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ReplayKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SafariServices.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SceneKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Security.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Social.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SpriteKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/StoreKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Twitter.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/VideoToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WatchConnectivity.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WatchKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WebKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/7.0.0/include" />
+          <root url="file:///Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/DTPerformanceSession.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers" />
+          <root url="file://$MODULE_DIR$/Pods/Headers/Private" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

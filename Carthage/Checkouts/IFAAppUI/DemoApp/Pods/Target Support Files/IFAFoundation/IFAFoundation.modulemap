@@ -1,0 +1,6 @@
+framework module IFAFoundation {
+  umbrella header "IFAFoundation-umbrella.h"
+
+  export *
+  module * { export * }
+}

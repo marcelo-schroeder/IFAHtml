@@ -1,6 +1,6 @@
 //
 //  IFAWorkInProgressModalViewManager.m
-//  Gusty
+//  IFACoreUI
 //
 //  Created by Marcelo Schroeder on 18/04/11.
 //  Copyright 2010 InfoAccent Pty Limited. All rights reserved.
@@ -72,12 +72,12 @@
     self.hasBeenCancelled = NO;
     self.hudViewController.text = a_message;
     if (self.cancellationCompletionBlock) {
-        self.hudViewController.detailText = NSLocalizedStringFromTable(@"Tap to cancel", @"GustyKitLocalizable", nil);
+        self.hudViewController.detailText = NSLocalizedStringFromTable(@"Tap to cancel", @"IFALocalizable", nil);
         __weak __typeof(self) weakSelf = self;
         self.hudViewController.chromeTapActionBlock = ^{
             weakSelf.hasBeenCancelled = YES;
             weakSelf.hudViewController.visualIndicatorMode = IFAHudViewVisualIndicatorModeProgressIndeterminate;
-            weakSelf.hudViewController.detailText = NSLocalizedStringFromTable(@"Cancelling...", @"GustyKitLocalizable", nil);
+            weakSelf.hudViewController.detailText = NSLocalizedStringFromTable(@"Cancelling...", @"IFALocalizable", nil);
             weakSelf.cancellationCompletionBlock();
         };
     } else {

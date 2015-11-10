@@ -1,6 +1,6 @@
 //
 //  IFAApplicationLogViewController.m
-//  Gusty
+//  IFAAppUI
 //
 //  Created by Marcelo Schroeder on 6/05/11.
 //  Copyright 2011 InfoAccent Pty Limited. All rights reserved.

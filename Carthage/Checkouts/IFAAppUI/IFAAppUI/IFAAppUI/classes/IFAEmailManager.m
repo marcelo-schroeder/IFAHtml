@@ -1,6 +1,6 @@
 //
 //  IFAEmailManager.m
-//  Gusty
+//  IFAAppUI
 //
 //  Created by Marcelo Schroeder on 16/02/12.
 //  Copyright (c) 2012 InfoAccent Pty Limited. All rights reserved.
@@ -66,7 +66,7 @@
         
     }else{
         
-        [IFAUIUtils showAlertWithMessage:NSLocalizedStringFromTable(@"This device is not able to send email!", @"GustyKitLocalizable", nil) title:NSLocalizedStringFromTable(@"Warning", @"GustyKitLocalizable", nil)];
+        [IFAUIUtils showAlertWithMessage:NSLocalizedStringFromTable(@"This device is not able to send email!", @"IFALocalizable", nil) title:NSLocalizedStringFromTable(@"Warning", @"IFALocalizable", nil)];
 
     }
 }
@@ -82,7 +82,7 @@
     
     if (result==MFMailComposeResultFailed) {
         [IFAUtils dispatchAsyncMainThreadBlock:^{
-            [IFAUIUtils showAlertWithMessage:NSLocalizedStringFromTable(@"The email has not been sent due to an error.", @"GustyKitLocalizable", nil) title:NSLocalizedStringFromTable(@"Email Error", @"GustyKitLocalizable", nil)];
+            [IFAUIUtils showAlertWithMessage:NSLocalizedStringFromTable(@"The email has not been sent due to an error.", @"IFALocalizable", nil) title:NSLocalizedStringFromTable(@"Email Error", @"IFALocalizable", nil)];
         }                           afterDelay:0.1];
     }
     

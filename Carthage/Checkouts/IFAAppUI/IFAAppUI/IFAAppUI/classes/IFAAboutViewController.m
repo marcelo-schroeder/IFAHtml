@@ -56,13 +56,13 @@
 #pragma mark - Public
 
 - (IBAction)bugReportButtonTap:(id)sender{
-    NSString *l_body = [NSString stringWithFormat:NSLocalizedStringFromTable(@"Hi there,\n\nPlease fix the following bug I have found in %@:", @"GustyKitLocalizable", @"Hi there, Please fix the following bug I have found in <APP_NAME>:"), [IFAUtils appFullName]];
-    [self.IFA_emailManager composeEmailWithSubject:NSLocalizedStringFromTable(@"Bug Report", @"GustyKitLocalizable", nil) recipient:[self IFA_bugReportEmailAddress] body:l_body];
+    NSString *l_body = [NSString stringWithFormat:NSLocalizedStringFromTable(@"Hi there,\n\nPlease fix the following bug I have found in %@:", @"IFALocalizable", @"Hi there, Please fix the following bug I have found in <APP_NAME>:"), [IFAUtils appFullName]];
+    [self.IFA_emailManager composeEmailWithSubject:NSLocalizedStringFromTable(@"Bug Report", @"IFALocalizable", nil) recipient:[self IFA_bugReportEmailAddress] body:l_body];
 }
 
 - (IBAction)feedbackButtonTap:(id)sender{
-    NSString *l_body = [NSString stringWithFormat:NSLocalizedStringFromTable(@"Hi there,\n\nI have the following feedback to provide for %@:", @"GustyKitLocalizable", @"Hi there, I have the following feedback to provide for <APP_NAME>:"), [IFAUtils appFullName]];
-    [self.IFA_emailManager composeEmailWithSubject:NSLocalizedStringFromTable(@"Feedback", @"GustyKitLocalizable", nil) recipient:[self IFA_feedbackEmailAddress] body:l_body];
+    NSString *l_body = [NSString stringWithFormat:NSLocalizedStringFromTable(@"Hi there,\n\nI have the following feedback to provide for %@:", @"IFALocalizable", @"Hi there, I have the following feedback to provide for <APP_NAME>:"), [IFAUtils appFullName]];
+    [self.IFA_emailManager composeEmailWithSubject:NSLocalizedStringFromTable(@"Feedback", @"IFALocalizable", nil) recipient:[self IFA_feedbackEmailAddress] body:l_body];
 }
 
 - (IBAction)forceCrashButtonTap:(id)sender {
@@ -71,7 +71,7 @@
 
 - (IBAction)thirdPartyCreditsButtonTap:(id)sender {
     UIViewController *l_viewController = [[IFAThirdPartyCodeCreditsViewController alloc] init];
-    l_viewController.title = NSLocalizedStringFromTable(@"Third Party Credits", @"GustyKitLocalizable", nil);
+    l_viewController.title = NSLocalizedStringFromTable(@"Third Party Credits", @"IFALocalizable", nil);
     [self ifa_presentModalViewController:l_viewController
                        presentationStyle:UIModalPresentationCurrentContext
                          transitionStyle:UIModalTransitionStyleCoverVertical

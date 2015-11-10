@@ -1,0 +1,6 @@
+framework module IFAAppUI {
+  umbrella header "IFAAppUI-umbrella.h"
+
+  export *
+  module * { export * }
+}

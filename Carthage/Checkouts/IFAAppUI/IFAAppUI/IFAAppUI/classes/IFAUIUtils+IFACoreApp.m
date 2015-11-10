@@ -129,7 +129,7 @@
 + (void) showAlertWithMessage:(NSString*)aMessage title:(NSString*)aTitle delegate:(id)aDelegate buttonLabel:(NSString*)aButtonLabel tag:(NSInteger)aTag{
     UIAlertView* alert = [[UIAlertView alloc] initWithTitle:aTitle message:aMessage
                                                    delegate:aDelegate
-                                          cancelButtonTitle:(aButtonLabel==nil?NSLocalizedStringFromTable(@"Continue", @"GustyKitLocalizable", nil):aButtonLabel)
+                                          cancelButtonTitle:(aButtonLabel==nil?NSLocalizedStringFromTable(@"Continue", @"IFALocalizable", nil):aButtonLabel)
                                           otherButtonTitles:nil];
 //	alert.accessibilityLabel = aTitle;
     if (aTag!=NSNotFound) {
@@ -176,8 +176,8 @@
     UIActionSheet *actionSheet =
             [[UIActionSheet alloc] initWithTitle:aMessage
                                         delegate:aDelegate
-                               cancelButtonTitle:[NSLocalizedStringFromTable(@"No", @"GustyKitLocalizable", nil) stringByAppendingString:(aCancelButtonLabelSuffix?[NSString stringWithFormat:@", %@", aCancelButtonLabelSuffix]:@"")]
-                          destructiveButtonTitle:[NSLocalizedStringFromTable(@"Yes, ", @"GustyKitLocalizable", nil) stringByAppendingString:aDestructiveButtonLabelSuffix]
+                               cancelButtonTitle:[NSLocalizedStringFromTable(@"No", @"IFALocalizable", nil) stringByAppendingString:(aCancelButtonLabelSuffix?[NSString stringWithFormat:@", %@", aCancelButtonLabelSuffix]:@"")]
+                          destructiveButtonTitle:[NSLocalizedStringFromTable(@"Yes, ", @"IFALocalizable", nil) stringByAppendingString:aDestructiveButtonLabelSuffix]
                                otherButtonTitles:nil];
     actionSheet.actionSheetStyle = UIActionSheetStyleDefault;
 //    NSLog(@"aView: %@", [aView description]);
@@ -230,10 +230,10 @@
     NSString *title;
     if (a_networkReachable) {
         NSString *unlocalisedString = [IFAUtils infoPList][@"IFAErrorAlertTitleServerError"] ?: @"Server error";
-        title = NSLocalizedStringFromTable(unlocalisedString, @"GustyKitLocalizable", nil);
+        title = NSLocalizedStringFromTable(unlocalisedString, @"IFALocalizable", nil);
     }else{
         NSString *unlocalisedString = [IFAUtils infoPList][@"IFAErrorAlertTitleNoConnectivity"] ?: @"No Internet access";
-        title = NSLocalizedStringFromTable(unlocalisedString, @"GustyKitLocalizable", nil);
+        title = NSLocalizedStringFromTable(unlocalisedString, @"IFALocalizable", nil);
     }
     return title;
 }
@@ -242,10 +242,10 @@
     NSString *message;
     if (a_networkReachable) {
         NSString *unlocalisedString = [IFAUtils infoPList][@"IFAErrorAlertMessageServerError"] ?: @"It was not possible to complete the operation. Please try again later.";
-        message = NSLocalizedStringFromTable(unlocalisedString, @"GustyKitLocalizable", nil);
+        message = NSLocalizedStringFromTable(unlocalisedString, @"IFALocalizable", nil);
     }else{
         NSString *unlocalisedString = [IFAUtils infoPList][@"IFAErrorAlertMessageNoConnectivity"] ?: @"It was not possible to complete the operation. Please try again when you are back online.";
-        message = NSLocalizedStringFromTable(unlocalisedString, @"GustyKitLocalizable", nil);
+        message = NSLocalizedStringFromTable(unlocalisedString, @"IFALocalizable", nil);
     }
     return message;
 }
