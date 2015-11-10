@@ -1,6 +1,6 @@
 //
-//  GustyAppKitHtml.h
-//  GustyAppKit
+//  IFAHtml.h
+//  IFAHtml
 //
 //  Created by Marcelo Schroeder on 23/08/14.
 //  Copyright (c) 2014 InfoAccent Pty Limited. All rights reserved.
@@ -18,7 +18,6 @@
 //  limitations under the License.
 //
 
-// GustyAppKit
 @import IFAAppUI;
 
 // 3rd party
