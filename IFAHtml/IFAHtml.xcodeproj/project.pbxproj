@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1073870579CDBE1946D33078 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 10738B79F218E4FAA9EBA164 /* LICENSE */; };
 		F71416091BEFD7AC009F8895 /* IFA_DTHTMLParser.h in Headers */ = {isa = PBXBuildFile; fileRef = F71416071BEFD7AC009F8895 /* IFA_DTHTMLParser.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F714160A1BEFD7AC009F8895 /* IFA_DTHTMLParser.m in Sources */ = {isa = PBXBuildFile; fileRef = F71416081BEFD7AC009F8895 /* IFA_DTHTMLParser.m */; };
 		F714160C1BEFD7FF009F8895 /* IFA_DTWeakSupport.h in Headers */ = {isa = PBXBuildFile; fileRef = F714160B1BEFD7FF009F8895 /* IFA_DTWeakSupport.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -65,6 +66,7 @@
 
 /* Begin PBXFileReference section */
 		107384C775547CBF380CFCA3 /* readme.markdown */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = readme.markdown; sourceTree = "<group>"; };
+		10738B79F218E4FAA9EBA164 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		10738BCB7A3C1130558BB9E9 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		5B8DDBAC4B7C8CD415EA6892 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "../Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		68A6991353FA267BCEDD24D7 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "../Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
@@ -220,6 +222,7 @@
 				F7650AE41BE954C600B97932 /* Products */,
 				B129A80CDC5088089F1CC5AB /* Pods */,
 				21AE26FE35B6AFE8F1493745 /* Frameworks */,
+				10738B79F218E4FAA9EBA164 /* LICENSE */,
 			);
 			sourceTree = "<group>";
 		};
@@ -351,6 +354,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1073870579CDBE1946D33078 /* LICENSE in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
