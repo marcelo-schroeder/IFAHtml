@@ -40,6 +40,9 @@
     <content url="file://$MODULE_DIR$/IFAHtml/IFAHtml/Info.plist" />
     <content url="file://$MODULE_DIR$/IFAHtml/IFAHtml/classes" />
     <content url="file://$MODULE_DIR$/IFAHtml/IFAHtmlTests" />
+    <content url="file://$MODULE_DIR$/LICENSE">
+      <sourceFolder url="file://$MODULE_DIR$/LICENSE" isTestSource="false" />
+    </content>
     <content url="file://$MODULE_DIR$/Podfile">
       <sourceFolder url="file://$MODULE_DIR$/Podfile" isTestSource="false" />
     </content>
