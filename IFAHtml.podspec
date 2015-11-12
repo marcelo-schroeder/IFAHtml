@@ -9,7 +9,6 @@ Pod::Spec.new do |s|
     s.requires_arc      = true
     s.source            = { :git => 'https://github.com/marcelo-schroeder/IFAHtml.git', :tag => 'v1.0.0' }
     s.source_files      = 'IFAHtml/IFAHtml/classes/**/*.{h,m}'
-    s.resource          = 'IFAHtml/IFAHtml/resources/**/*.*'
     s.library           = 'xml2'
     s.xcconfig          = { 'HEADER_SEARCH_PATHS' => '"$(SDKROOT)/usr/include/libxml2"' }
     s.dependency 'IFAAppUI'
