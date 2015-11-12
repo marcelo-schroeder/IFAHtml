@@ -18,7 +18,13 @@
 //  limitations under the License.
 //
 
-@import IFAAppUI;
+//! Project version number for IFAHtml.
+FOUNDATION_EXPORT double IFAHtmlVersionNumber;
+
+//! Project version string for IFAHtml.
+FOUNDATION_EXPORT const unsigned char IFAHtmlVersionString[];
+
+@import IFAHtml;
 
 // 3rd party
 #import "NSString+IFA_GTM_HTML.h"
