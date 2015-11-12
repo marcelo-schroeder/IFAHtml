@@ -33,8 +33,8 @@
       <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/classes/IFAAppDefaultAppearanceTheme.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/classes/IFAApplicationDelegate.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/classes/IFAApplicationDelegate.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/classes/IFAApplicationLog+IFACoreApp.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/classes/IFAApplicationLog+IFACoreApp.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/classes/IFAApplicationLog+IFAAppUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/classes/IFAApplicationLog+IFAAppUI.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/classes/IFAApplicationLog.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/classes/IFAApplicationLog.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/classes/IFAApplicationLogViewController.h" isTestSource="false" />
@@ -67,14 +67,14 @@
       <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/classes/IFAStaticPagingContainerViewController.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/classes/IFAThirdPartyCodeCreditsViewController.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/classes/IFAThirdPartyCodeCreditsViewController.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/classes/IFAUIUtils+IFACoreApp.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/classes/IFAUIUtils+IFACoreApp.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/classes/IFAUIUtils+IFAAppUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/classes/IFAUIUtils+IFAAppUI.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/classes/IFAUserNotificationSettingsManager.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/classes/IFAUserNotificationSettingsManager.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/classes/NSURL+IFACoreApp.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/classes/NSURL+IFACoreApp.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/classes/UIViewController+IFACoreApp.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/classes/UIViewController+IFACoreApp.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/classes/NSURL+IFAAppUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/classes/NSURL+IFAAppUI.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/classes/UIViewController+IFAAppUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/classes/UIViewController+IFAAppUI.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/Info.plist" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/resources/3rd party/iconshock.com/internalWebBrowserActivity@2x~ipad.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/IFAAppUI/IFAAppUI/resources/3rd party/iconshock.com/internalWebBrowserActivity@2x~iphone.png" isTestSource="false" />

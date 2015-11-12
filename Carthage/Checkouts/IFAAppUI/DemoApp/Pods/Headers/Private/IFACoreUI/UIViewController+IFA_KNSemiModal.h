@@ -1,1 +1,1 @@
-../../../../../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/3rd party/KNSemiModal/UIViewController+IFA_KNSemiModal.h
+../../../IFACoreUI/IFACoreUI/IFACoreUI/classes/3rd party/KNSemiModal/UIViewController+IFA_KNSemiModal.h

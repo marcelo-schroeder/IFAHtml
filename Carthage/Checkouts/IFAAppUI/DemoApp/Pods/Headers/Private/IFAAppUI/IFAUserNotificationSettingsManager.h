@@ -1,1 +1,1 @@
-../../../../../IFAAppUI/IFAAppUI/classes/IFAUserNotificationSettingsManager.h
+../../../IFAAppUI/IFAAppUI/IFAAppUI/classes/IFAUserNotificationSettingsManager.h

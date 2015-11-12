@@ -1,1 +1,1 @@
-../../../../../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/NSAttributedString+IFACoreUI.h
+../../../IFACoreUI/IFACoreUI/IFACoreUI/classes/NSAttributedString+IFACoreUI.h

@@ -1,1 +1,1 @@
-../../../../../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFACollectionViewFlowLayout.h
+../../../IFACoreUI/IFACoreUI/IFACoreUI/classes/IFACollectionViewFlowLayout.h

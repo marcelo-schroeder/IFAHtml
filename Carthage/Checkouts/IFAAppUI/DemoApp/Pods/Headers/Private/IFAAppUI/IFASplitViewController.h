@@ -1,1 +1,1 @@
-../../../../../IFAAppUI/IFAAppUI/classes/IFASplitViewController.h
+../../../IFAAppUI/IFAAppUI/IFAAppUI/classes/IFASplitViewController.h

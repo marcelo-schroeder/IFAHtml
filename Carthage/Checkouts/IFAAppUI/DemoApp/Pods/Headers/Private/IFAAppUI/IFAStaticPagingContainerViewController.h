@@ -1,1 +1,1 @@
-../../../../../IFAAppUI/IFAAppUI/classes/IFAStaticPagingContainerViewController.h
+../../../IFAAppUI/IFAAppUI/IFAAppUI/classes/IFAStaticPagingContainerViewController.h

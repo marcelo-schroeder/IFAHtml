@@ -22,6 +22,15 @@
 
 @class IFATableViewController;
 
+typedef NS_ENUM(NSUInteger, IFAScrollPage) {
+    IFAScrollPageLeftFar,
+    IFAScrollPageLeftNear,
+    IFAScrollPageCentre,
+    IFAScrollPageRightNear,
+    IFAScrollPageRightFar,
+    IFAScrollPageInit,
+};
+
 @interface IFAAbstractPagingContainerViewController : IFAViewController <IFAPagingContainer, UIScrollViewDelegate, IFAContextSwitchTarget>
 
 @property (nonatomic, readonly) NSUInteger selectedPageIndex;

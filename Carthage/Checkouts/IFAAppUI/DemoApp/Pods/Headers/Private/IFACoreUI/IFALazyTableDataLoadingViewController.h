@@ -1,1 +1,1 @@
-../../../../../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFALazyTableDataLoadingViewController.h
+../../../IFACoreUI/IFACoreUI/IFACoreUI/classes/IFALazyTableDataLoadingViewController.h

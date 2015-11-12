@@ -6,21 +6,36 @@ PODS:
   - IFAFoundation (1.0.0)
 
 DEPENDENCIES:
-  - IFAAppUI (from `/Users/mschroeder/myfiles/projects/Xcode/IFAAppUI/IFAAppUI_development`)
-  - IFACoreUI (from `/Users/mschroeder/myfiles/projects/Xcode/IFACoreUI/IFACoreUI_development`)
-  - IFAFoundation (from `/Users/mschroeder/myfiles/projects/Xcode/IFAFoundation/IFAFoundation_development`)
+  - IFAAppUI (from `https://github.com/marcelo-schroeder/IFAAppUI.git`, branch `master`)
+  - IFACoreUI (from `https://github.com/marcelo-schroeder/IFACoreUI.git`, branch `master`)
+  - IFAFoundation (from `https://github.com/marcelo-schroeder/IFAFoundation.git`,
+    branch `master`)
 
 EXTERNAL SOURCES:
   IFAAppUI:
-    :path: /Users/mschroeder/myfiles/projects/Xcode/IFAAppUI/IFAAppUI_development
+    :branch: master
+    :git: https://github.com/marcelo-schroeder/IFAAppUI.git
   IFACoreUI:
-    :path: /Users/mschroeder/myfiles/projects/Xcode/IFACoreUI/IFACoreUI_development
+    :branch: master
+    :git: https://github.com/marcelo-schroeder/IFACoreUI.git
   IFAFoundation:
-    :path: /Users/mschroeder/myfiles/projects/Xcode/IFAFoundation/IFAFoundation_development
+    :branch: master
+    :git: https://github.com/marcelo-schroeder/IFAFoundation.git
+
+CHECKOUT OPTIONS:
+  IFAAppUI:
+    :commit: 64089ac278dad859906caf6269c0a37d78252938
+    :git: https://github.com/marcelo-schroeder/IFAAppUI.git
+  IFACoreUI:
+    :commit: 04b8bb21348bb8cc80f3b1d148e6a16ad62080fc
+    :git: https://github.com/marcelo-schroeder/IFACoreUI.git
+  IFAFoundation:
+    :commit: fe925a206576ccdb4aa22ee015526fcab01c2b2e
+    :git: https://github.com/marcelo-schroeder/IFAFoundation.git
 
 SPEC CHECKSUMS:
   IFAAppUI: e6f589b0235799e16c47180d5bbea00194fe31f6
   IFACoreUI: a2929319d0d56c459a8722d4db56c71a48f0f52b
-  IFAFoundation: 2376e5fc0bc5f88e1d135d63fbde5f188bb752d5
+  IFAFoundation: db3640ebd376466f12202c2d91860ff2691b51a8
 
 COCOAPODS: 0.39.0

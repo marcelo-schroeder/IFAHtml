@@ -1,1 +1,1 @@
-../../../../../IFAAppUI/IFAAppUI/classes/IFAApplicationDelegate.h
+../../../IFAAppUI/IFAAppUI/IFAAppUI/classes/IFAApplicationDelegate.h

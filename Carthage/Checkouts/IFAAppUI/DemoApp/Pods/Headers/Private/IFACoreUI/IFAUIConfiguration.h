@@ -1,1 +1,1 @@
-../../../../../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAUIConfiguration.h
+../../../IFACoreUI/IFACoreUI/IFACoreUI/classes/IFAUIConfiguration.h

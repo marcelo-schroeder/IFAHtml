@@ -1,1 +1,1 @@
-../../../../../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAHelpViewController.h
+../../../IFACoreUI/IFACoreUI/IFACoreUI/classes/IFAHelpViewController.h

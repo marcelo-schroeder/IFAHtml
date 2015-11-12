@@ -1,1 +1,1 @@
-../../../../../IFAAppUI/IFAAppUI/classes/IFAThirdPartyCodeCreditsViewController.h
+../../../IFAAppUI/IFAAppUI/IFAAppUI/classes/IFAThirdPartyCodeCreditsViewController.h

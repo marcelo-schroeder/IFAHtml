@@ -1,1 +1,1 @@
-../../../../../IFAAppUI/IFAAppUI/classes/IFAEmailManager.h
+../../../IFAAppUI/IFAAppUI/IFAAppUI/classes/IFAEmailManager.h

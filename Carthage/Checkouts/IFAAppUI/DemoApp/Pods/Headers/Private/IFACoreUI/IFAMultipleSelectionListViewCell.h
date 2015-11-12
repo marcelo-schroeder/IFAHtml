@@ -1,1 +1,1 @@
-../../../../../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAMultipleSelectionListViewCell.h
+../../../IFACoreUI/IFACoreUI/IFACoreUI/classes/IFAMultipleSelectionListViewCell.h

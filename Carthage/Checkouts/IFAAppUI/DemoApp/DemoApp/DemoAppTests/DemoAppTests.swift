@@ -1,5 +1,5 @@
 //
-//  GustyLibDemoApp_HUDTests.swift
+//  DemoAppTests.swift
 //  DemoAppTests
 //
 //  Created by Marcelo Schroeder on 19/01/2015.
@@ -9,7 +9,7 @@
 import UIKit
 import XCTest
 
-class GustyLibDemoApp_HUDTests: XCTestCase {
+class DemoAppTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

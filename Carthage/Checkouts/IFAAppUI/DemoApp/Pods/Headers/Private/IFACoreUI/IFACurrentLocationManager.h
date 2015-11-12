@@ -1,1 +1,1 @@
-../../../../../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFACurrentLocationManager.h
+../../../IFACoreUI/IFACoreUI/IFACoreUI/classes/IFACurrentLocationManager.h

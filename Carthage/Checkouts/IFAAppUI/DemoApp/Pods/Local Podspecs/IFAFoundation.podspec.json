@@ -1,7 +1,7 @@
 {
   "name": "IFAFoundation",
   "version": "1.0.0",
-  "summary": "A Cocoa Touch framework to help you develop high quality iOS apps and app extensions faster.",
+  "summary": "Collection of enhancements on top of Cocoa Touch foundation frameworks for iOS apps and app extensions.",
   "homepage": "https://github.com/marcelo-schroeder/IFAFoundation",
   "license": "Apache-2.0",
   "authors": {

@@ -1,1 +1,1 @@
-../../../../../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAViewControllerTransitioningDelegate.h
+../../../IFACoreUI/IFACoreUI/IFACoreUI/classes/IFAViewControllerTransitioningDelegate.h

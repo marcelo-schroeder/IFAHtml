@@ -1,1 +1,1 @@
-../../../../../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAFetchedResultsTableViewController.h
+../../../IFACoreUI/IFACoreUI/IFACoreUI/classes/IFAFetchedResultsTableViewController.h

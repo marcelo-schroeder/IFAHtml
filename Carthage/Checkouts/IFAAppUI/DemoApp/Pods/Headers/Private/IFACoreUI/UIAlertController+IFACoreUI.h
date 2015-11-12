@@ -1,1 +1,1 @@
-../../../../../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIAlertController+IFACoreUI.h
+../../../IFACoreUI/IFACoreUI/IFACoreUI/classes/UIAlertController+IFACoreUI.h

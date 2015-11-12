@@ -1,1 +1,1 @@
-../../../../../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/NSString+IFAFoundation.h
+../../../IFAFoundation/IFAFoundation/IFAFoundation/classes/NSString+IFAFoundation.h

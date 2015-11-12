@@ -1,1 +1,1 @@
-../../../../../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UITableView+IFACoreUI.h
+../../../IFACoreUI/IFACoreUI/IFACoreUI/classes/UITableView+IFACoreUI.h

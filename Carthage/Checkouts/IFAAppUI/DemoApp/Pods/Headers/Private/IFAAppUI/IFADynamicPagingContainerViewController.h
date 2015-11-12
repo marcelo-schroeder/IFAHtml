@@ -1,1 +1,1 @@
-../../../../../IFAAppUI/IFAAppUI/classes/IFADynamicPagingContainerViewController.h
+../../../IFAAppUI/IFAAppUI/IFAAppUI/classes/IFADynamicPagingContainerViewController.h

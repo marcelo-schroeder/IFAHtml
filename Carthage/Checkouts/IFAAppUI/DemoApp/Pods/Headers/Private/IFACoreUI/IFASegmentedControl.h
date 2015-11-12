@@ -1,1 +1,1 @@
-../../../../../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFASegmentedControl.h
+../../../IFACoreUI/IFACoreUI/IFACoreUI/classes/IFASegmentedControl.h

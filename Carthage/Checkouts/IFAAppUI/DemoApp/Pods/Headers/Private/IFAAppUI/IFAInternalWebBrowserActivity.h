@@ -1,1 +1,1 @@
-../../../../../IFAAppUI/IFAAppUI/classes/IFAInternalWebBrowserActivity.h
+../../../IFAAppUI/IFAAppUI/IFAAppUI/classes/IFAInternalWebBrowserActivity.h

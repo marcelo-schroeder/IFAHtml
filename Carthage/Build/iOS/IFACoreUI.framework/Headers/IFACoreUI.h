@@ -18,7 +18,6 @@
 //  limitations under the License.
 //
 
-// Apple Frameworks
 #import <CoreData/CoreData.h>
 #import <CoreText/CoreText.h>
 #import <CoreLocation/CoreLocation.h>
@@ -29,6 +28,12 @@
 #import <AdSupport/AdSupport.h>
 #import <Accelerate/Accelerate.h>
 @import UIKit;
+
+//! Project version number for IFACoreUI.
+FOUNDATION_EXPORT double IFACoreUIVersionNumber;
+
+//! Project version string for IFACoreUI.
+FOUNDATION_EXPORT const unsigned char IFACoreUIVersionString[];
 
 /*************/
 /* 3rd party */
@@ -120,7 +125,7 @@
 #import "UIStoryboard+IFACoreUI.h"
 #import "UITableView+IFACoreUI.h"
 #import "UITableViewCell+IFACoreUI.h"
-#import "UITableViewController+IFADynamicCellHeight.h"
+#import "UITableViewController+IFACoreUI_DynamicCellHeight.h"
 #import "UIView+IFACoreUI.h"
 #import "UIViewController+IFACoreUI.h"
 #import "UIWebView+IFACoreUI.h"
@@ -162,8 +167,8 @@
 #import "IFACrashReportingUtils.h"
 #import "IFAAnalyticsManager.h"
 #import "IFAHelpManager.h"
-#import "UIButton+IFAHelp.h"
-#import "UIViewController+IFAHelp.h"
+#import "UIButton+IFACoreUI_Help.h"
+#import "UIViewController+IFACoreUI_Help.h"
 #import "IFAHelpContentViewController.h"
 #import "IFAHelpViewController.h"
 #import "IFAHelpTarget.h"

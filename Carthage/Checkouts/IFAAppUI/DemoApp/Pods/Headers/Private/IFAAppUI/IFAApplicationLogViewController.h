@@ -1,1 +1,1 @@
-../../../../../IFAAppUI/IFAAppUI/classes/IFAApplicationLogViewController.h
+../../../IFAAppUI/IFAAppUI/IFAAppUI/classes/IFAApplicationLogViewController.h

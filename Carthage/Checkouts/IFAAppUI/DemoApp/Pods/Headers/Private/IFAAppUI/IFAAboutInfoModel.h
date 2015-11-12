@@ -1,1 +1,1 @@
-../../../../../IFAAppUI/IFAAppUI/classes/IFAAboutInfoModel.h
+../../../IFAAppUI/IFAAppUI/IFAAppUI/classes/IFAAboutInfoModel.h

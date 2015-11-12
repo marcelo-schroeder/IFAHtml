@@ -1,1 +1,1 @@
-../../../../../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAContextSwitchingManager.h
+../../../IFACoreUI/IFACoreUI/IFACoreUI/classes/IFAContextSwitchingManager.h

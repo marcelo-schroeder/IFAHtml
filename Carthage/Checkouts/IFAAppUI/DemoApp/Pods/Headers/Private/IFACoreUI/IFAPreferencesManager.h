@@ -1,1 +1,1 @@
-../../../../../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAPreferencesManager.h
+../../../IFACoreUI/IFACoreUI/IFACoreUI/classes/IFAPreferencesManager.h

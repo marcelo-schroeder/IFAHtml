@@ -1,1 +1,1 @@
-../../../../../../../IFAFoundation/IFAFoundation_development/IFAFoundation/IFAFoundation/classes/NSFileManager+IFAFoundation.h
+../../../IFAFoundation/IFAFoundation/IFAFoundation/classes/NSFileManager+IFAFoundation.h

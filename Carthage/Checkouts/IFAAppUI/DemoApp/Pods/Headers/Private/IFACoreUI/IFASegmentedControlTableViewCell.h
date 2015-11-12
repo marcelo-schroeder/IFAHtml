@@ -1,1 +1,1 @@
-../../../../../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFASegmentedControlTableViewCell.h
+../../../IFACoreUI/IFACoreUI/IFACoreUI/classes/IFASegmentedControlTableViewCell.h

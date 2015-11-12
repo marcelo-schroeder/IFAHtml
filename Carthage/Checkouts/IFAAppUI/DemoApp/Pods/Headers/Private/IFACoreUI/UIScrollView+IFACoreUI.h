@@ -1,1 +1,1 @@
-../../../../../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/UIScrollView+IFACoreUI.h
+../../../IFACoreUI/IFACoreUI/IFACoreUI/classes/UIScrollView+IFACoreUI.h

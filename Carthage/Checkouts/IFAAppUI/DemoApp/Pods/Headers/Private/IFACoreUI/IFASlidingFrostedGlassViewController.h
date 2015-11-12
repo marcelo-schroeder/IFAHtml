@@ -1,1 +1,1 @@
-../../../../../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFASlidingFrostedGlassViewController.h
+../../../IFACoreUI/IFACoreUI/IFACoreUI/classes/IFASlidingFrostedGlassViewController.h

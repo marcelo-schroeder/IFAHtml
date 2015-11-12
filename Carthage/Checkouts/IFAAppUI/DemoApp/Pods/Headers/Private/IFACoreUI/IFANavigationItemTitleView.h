@@ -1,1 +1,1 @@
-../../../../../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFANavigationItemTitleView.h
+../../../IFACoreUI/IFACoreUI/IFACoreUI/classes/IFANavigationItemTitleView.h

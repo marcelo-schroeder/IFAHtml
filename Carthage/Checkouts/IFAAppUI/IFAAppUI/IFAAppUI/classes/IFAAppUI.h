@@ -18,7 +18,6 @@
 //  limitations under the License.
 //
 
-// Apple Frameworks
 #import <CoreData/CoreData.h>
 #import <CoreText/CoreText.h>
 #import <CoreLocation/CoreLocation.h>
@@ -28,6 +27,12 @@
 #import <GLKit/GLKit.h>
 #import <AdSupport/AdSupport.h>
 #import <Accelerate/Accelerate.h>
+
+//! Project version number for IFAAppUI.
+FOUNDATION_EXPORT double IFAAppUIVersionNumber;
+
+//! Project version string for IFAAppUI.
+FOUNDATION_EXPORT const unsigned char IFAAppUIVersionString[];
 
 /*************/
 /* 3rd party */
@@ -49,7 +54,7 @@
 #import "IFAAbstractWebBrowserActivity.h"
 #import "IFAApplicationDelegate.h"
 #import "IFAApplicationLog.h"
-#import "IFAApplicationLog+IFACoreApp.h"
+#import "IFAApplicationLog+IFAAppUI.h"
 #import "IFAApplicationLogViewController.h"
 #import "IFADynamicPagingContainerViewController.h"
 #import "IFADynamicPagingContainerViewControllerDataSource.h"
@@ -64,9 +69,9 @@
 #import "IFASplitViewController.h"
 #import "IFAStaticPagingContainerViewController.h"
 #import "IFAThirdPartyCodeCreditsViewController.h"
-#import "NSURL+IFACoreApp.h"
+#import "NSURL+IFAAppUI.h"
 #import "IFAUserNotificationSettingsManager.h"
-#import "UIViewController+IFACoreApp.h"
-#import "IFAUIUtils+IFACoreApp.h"
+#import "UIViewController+IFAAppUI.h"
+#import "IFAUIUtils+IFAAppUI.h"
 #import "IFAAppDefaultAppearanceTheme.h"
 #import "IFAAppMapViewController.h"

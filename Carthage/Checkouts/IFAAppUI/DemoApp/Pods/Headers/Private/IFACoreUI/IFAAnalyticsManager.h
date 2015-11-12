@@ -1,1 +1,1 @@
-../../../../../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAAnalyticsManager.h
+../../../IFACoreUI/IFACoreUI/IFACoreUI/classes/IFAAnalyticsManager.h

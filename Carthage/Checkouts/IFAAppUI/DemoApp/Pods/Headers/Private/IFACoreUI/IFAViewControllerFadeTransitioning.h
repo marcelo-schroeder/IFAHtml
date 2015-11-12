@@ -1,1 +1,1 @@
-../../../../../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAViewControllerFadeTransitioning.h
+../../../IFACoreUI/IFACoreUI/IFACoreUI/classes/IFAViewControllerFadeTransitioning.h

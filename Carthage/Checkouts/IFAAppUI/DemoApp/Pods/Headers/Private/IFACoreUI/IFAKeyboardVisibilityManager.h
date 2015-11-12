@@ -1,1 +1,1 @@
-../../../../../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAKeyboardVisibilityManager.h
+../../../IFACoreUI/IFACoreUI/IFACoreUI/classes/IFAKeyboardVisibilityManager.h

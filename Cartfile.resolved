@@ -1,3 +1,3 @@
-git "https://github.com/marcelo-schroeder/IFAFoundation.git" "316cd058e61dcdf17cf307866d019a3e8ec07a26"
-git "https://github.com/marcelo-schroeder/IFACoreUI.git" "e077d826b270e926fd7189a4354e11520b29e090"
-git "https://github.com/marcelo-schroeder/IFAAppUI.git" "3e2f738dfef630d1472d5a39f2173501424b267b"
+git "https://github.com/marcelo-schroeder/IFAFoundation.git" "536048d8b2d17ebbd94b144e45e2d3b9ce9ec76d"
+git "https://github.com/marcelo-schroeder/IFACoreUI.git" "e7e20f81fc017744be4a563e27aca1d5d0668c32"
+git "https://github.com/marcelo-schroeder/IFAAppUI.git" "70a0a2d45b25a4fad9146bc33b3256b21ea778f2"

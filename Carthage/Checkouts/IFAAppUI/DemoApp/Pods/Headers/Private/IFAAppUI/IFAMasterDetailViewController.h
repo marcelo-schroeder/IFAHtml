@@ -1,1 +1,1 @@
-../../../../../IFAAppUI/IFAAppUI/classes/IFAMasterDetailViewController.h
+../../../IFAAppUI/IFAAppUI/IFAAppUI/classes/IFAMasterDetailViewController.h

@@ -1,1 +1,1 @@
-../../../../../IFAAppUI/IFAAppUI/classes/NSURL+IFACoreApp.h
+../../../IFAAppUI/IFAAppUI/IFAAppUI/classes/NSURL+IFACoreApp.h

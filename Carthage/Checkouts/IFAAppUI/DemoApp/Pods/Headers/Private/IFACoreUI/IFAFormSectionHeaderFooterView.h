@@ -1,1 +1,1 @@
-../../../../../../../IFACoreUI/IFACoreUI_development/IFACoreUI/IFACoreUI/classes/IFAFormSectionHeaderFooterView.h
+../../../IFACoreUI/IFACoreUI/IFACoreUI/classes/IFAFormSectionHeaderFooterView.h
