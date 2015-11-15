@@ -13,3 +13,7 @@ IFAHtml can be integrated to your project via Cocoapods or Carthage.
 ## Latest API Documentation ##
 
 http://cocoadocs.org/docsets/IFAHtml
+
+## 3rd Party Credits ##
+- [DTFoundation](https://github.com/Cocoanetics/DTFoundation)
+- [MWFeedParser](https://github.com/mwaterfall/MWFeedParser)
