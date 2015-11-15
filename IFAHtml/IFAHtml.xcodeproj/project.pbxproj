@@ -130,6 +130,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		10738E036ECE3F745041E75F /* 3rd party */ = {
+			isa = PBXGroup;
+			children = (
+				F71416171BEFE24A009F8895 /* MWFeedParser */,
+				F71416061BEFD7AC009F8895 /* DTFoundation */,
+			);
+			path = "3rd party";
+			sourceTree = "<group>";
+		};
 		21AE26FE35B6AFE8F1493745 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -156,8 +165,7 @@
 				10738BCB7A3C1130558BB9E9 /* LICENSE */,
 				107384C775547CBF380CFCA3 /* readme.markdown */,
 			);
-			name = DTFoundation;
-			path = "3rd party/DTFoundation";
+			path = DTFoundation;
 			sourceTree = "<group>";
 		};
 		F71416171BEFE24A009F8895 /* MWFeedParser */ = {
@@ -170,8 +178,7 @@
 				F714161C1BEFE24A009F8895 /* NSString+IFA_MW_HTML.m */,
 				F714161D1BEFE24A009F8895 /* README.markdown */,
 			);
-			name = MWFeedParser;
-			path = "3rd party/MWFeedParser";
+			path = MWFeedParser;
 			sourceTree = "<group>";
 		};
 		F71416241BEFE4C9009F8895 /* classes */ = {
@@ -196,13 +203,12 @@
 		F74ACC1D1BEBFE4400C4B73E /* classes */ = {
 			isa = PBXGroup;
 			children = (
-				F71416171BEFE24A009F8895 /* MWFeedParser */,
-				F71416061BEFD7AC009F8895 /* DTFoundation */,
 				F74ACC1E1BEBFE4400C4B73E /* IFAHtml.h */,
 				F74ACC1F1BEBFE4400C4B73E /* IFAHtmlParser.h */,
 				F74ACC201BEBFE4400C4B73E /* IFAHtmlParser.m */,
 				F74ACC211BEBFE4400C4B73E /* IFAWebViewController.h */,
 				F74ACC221BEBFE4400C4B73E /* IFAWebViewController.m */,
+				10738E036ECE3F745041E75F /* 3rd party */,
 			);
 			path = classes;
 			sourceTree = "<group>";
