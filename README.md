@@ -8,7 +8,7 @@ Additional documentation and sample code are coming soon.
 
 ## How to integrate IFAHtml ##
 
-IFAHtml can be integrated to your project via Cocoapods or Carthage.
+IFAHtml can be integrated to your project via CocoaPods or Carthage.
 
 ## Latest API Documentation ##
 
