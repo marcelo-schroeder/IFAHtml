@@ -91,6 +91,7 @@
 		F7650AE81BE954C600B97932 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F7650AED1BE954C600B97932 /* IFAHtmlTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IFAHtmlTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F7650AF41BE954C600B97932 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F7CB037F1D6278DC00635E81 /* fastlane */ = {isa = PBXFileReference; lastKnownFileType = folder; name = fastlane; path = ../fastlane; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -205,6 +206,7 @@
 		F7650AD91BE954C600B97932 = {
 			isa = PBXGroup;
 			children = (
+				F7CB037F1D6278DC00635E81 /* fastlane */,
 				F71416301BEFE60E009F8895 /* Podfile */,
 				F75C51721BF136620003174D /* IFAHtml.podspec */,
 				F71416151BEFE0D4009F8895 /* libxml2.2.dylib */,
