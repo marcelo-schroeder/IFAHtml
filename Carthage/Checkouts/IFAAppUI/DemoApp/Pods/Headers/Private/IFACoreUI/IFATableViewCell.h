@@ -1,1 +1,0 @@
-../../../IFACoreUI/IFACoreUI/IFACoreUI/classes/IFATableViewCell.h

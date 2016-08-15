@@ -1,6 +1,0 @@
-framework module IFACoreUI {
-  umbrella header "IFACoreUI.h"
-
-  export *
-  module * { export * }
-}

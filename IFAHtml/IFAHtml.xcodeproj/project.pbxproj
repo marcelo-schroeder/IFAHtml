@@ -21,9 +21,6 @@
 		F714162D1BEFE4C9009F8895 /* HtmlParser_testdata2.html in Resources */ = {isa = PBXBuildFile; fileRef = F71416281BEFE4C9009F8895 /* HtmlParser_testdata2.html */; };
 		F714162E1BEFE4C9009F8895 /* HtmlParser_testdata3.html in Resources */ = {isa = PBXBuildFile; fileRef = F71416291BEFE4C9009F8895 /* HtmlParser_testdata3.html */; };
 		F714162F1BEFE4C9009F8895 /* HtmlParser_testdata4.html in Resources */ = {isa = PBXBuildFile; fileRef = F714162A1BEFE4C9009F8895 /* HtmlParser_testdata4.html */; };
-		F71416311BEFE71A009F8895 /* IFAAppUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F74ACC2E1BEC00BB00C4B73E /* IFAAppUI.framework */; };
-		F71416321BEFE71A009F8895 /* IFACoreUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F74ACC2C1BEC00B700C4B73E /* IFACoreUI.framework */; };
-		F71416331BEFE71A009F8895 /* IFAFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F74ACC2A1BEC00B400C4B73E /* IFAFoundation.framework */; };
 		F71416351BEFE762009F8895 /* IFAAppUI.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = F74ACC2E1BEC00BB00C4B73E /* IFAAppUI.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		F71416361BEFE762009F8895 /* IFACoreUI.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = F74ACC2C1BEC00B700C4B73E /* IFACoreUI.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		F71416371BEFE762009F8895 /* IFAFoundation.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = F74ACC2A1BEC00B400C4B73E /* IFAFoundation.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
@@ -32,11 +29,6 @@
 		F74ACC251BEBFE4400C4B73E /* IFAHtmlParser.m in Sources */ = {isa = PBXBuildFile; fileRef = F74ACC201BEBFE4400C4B73E /* IFAHtmlParser.m */; };
 		F74ACC261BEBFE4400C4B73E /* IFAWebViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = F74ACC211BEBFE4400C4B73E /* IFAWebViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F74ACC271BEBFE4400C4B73E /* IFAWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F74ACC221BEBFE4400C4B73E /* IFAWebViewController.m */; };
-		F74ACC2B1BEC00B400C4B73E /* IFAFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F74ACC2A1BEC00B400C4B73E /* IFAFoundation.framework */; };
-		F74ACC2D1BEC00B700C4B73E /* IFACoreUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F74ACC2C1BEC00B700C4B73E /* IFACoreUI.framework */; };
-		F74ACC2F1BEC00BB00C4B73E /* IFAAppUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F74ACC2E1BEC00BB00C4B73E /* IFAAppUI.framework */; };
-		F7650AEE1BE954C600B97932 /* IFAHtml.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F7650AE31BE954C600B97932 /* IFAHtml.framework */; };
-		FE82ECE63521FD29D7F43BC5 /* Pods.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE1C54ECE7047D3B2A93154F /* Pods.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,7 +62,6 @@
 		10738BCB7A3C1130558BB9E9 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		5B8DDBAC4B7C8CD415EA6892 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "../Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		68A6991353FA267BCEDD24D7 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "../Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
-		AE1C54ECE7047D3B2A93154F /* Pods.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F71416071BEFD7AC009F8895 /* IFA_DTHTMLParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IFA_DTHTMLParser.h; sourceTree = "<group>"; };
 		F71416081BEFD7AC009F8895 /* IFA_DTHTMLParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IFA_DTHTMLParser.m; sourceTree = "<group>"; };
 		F714160B1BEFD7FF009F8895 /* IFA_DTWeakSupport.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IFA_DTWeakSupport.h; sourceTree = "<group>"; };
@@ -109,9 +100,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				F71416161BEFE0D4009F8895 /* libxml2.2.dylib in Frameworks */,
-				F74ACC2B1BEC00B400C4B73E /* IFAFoundation.framework in Frameworks */,
-				F74ACC2D1BEC00B700C4B73E /* IFACoreUI.framework in Frameworks */,
-				F74ACC2F1BEC00BB00C4B73E /* IFAAppUI.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -119,11 +107,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F7650AEE1BE954C600B97932 /* IFAHtml.framework in Frameworks */,
-				FE82ECE63521FD29D7F43BC5 /* Pods.framework in Frameworks */,
-				F71416311BEFE71A009F8895 /* IFAAppUI.framework in Frameworks */,
-				F71416321BEFE71A009F8895 /* IFACoreUI.framework in Frameworks */,
-				F71416331BEFE71A009F8895 /* IFAFoundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -142,7 +125,6 @@
 		21AE26FE35B6AFE8F1493745 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				AE1C54ECE7047D3B2A93154F /* Pods.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -481,7 +463,6 @@
 				ENABLE_NS_ASSERTIONS = YES;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
-				FRAMEWORK_SEARCH_PATHS = "$(SOURCE_ROOT)/../Carthage/Build/iOS";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -529,7 +510,6 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = YES;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				FRAMEWORK_SEARCH_PATHS = "$(SOURCE_ROOT)/../Carthage/Build/iOS";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -586,7 +566,6 @@
 		};
 		F7650AFB1BE954C600B97932 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 68A6991353FA267BCEDD24D7 /* Pods.debug.xcconfig */;
 			buildSettings = {
 				INFOPLIST_FILE = IFAHtmlTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
