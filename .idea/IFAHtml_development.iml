@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="CIDR_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/libxml2" />
     <content url="file://$MODULE_DIR$/.idea" />
     <content url="file://$MODULE_DIR$/Cartfile">
       <sourceFolder url="file://$MODULE_DIR$/Cartfile" isTestSource="false" />
@@ -22,11 +21,11 @@
       <sourceFolder url="file://$MODULE_DIR$/IFAHtml/IFAHtml/classes/3rd party/MWFeedParser/LICENSE.txt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/IFAHtml/IFAHtml/classes/3rd party/MWFeedParser/README.markdown" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/IFAHtml/IFAHtml/classes/3rd party/MWFeedParser/NSString+IFA_MW_HTML.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/IFAHtml/IFAHtml/classes/3rd party/DTFoundation/readme.markdown" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/IFAHtml/IFAHtml/classes/3rd party/DTFoundation/IFA_DTHTMLParser.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/IFAHtml/IFAHtml/classes/3rd party/DTFoundation/LICENSE" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/IFAHtml/IFAHtml/classes/3rd party/DTFoundation/IFA_DTHTMLParser.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/IFAHtml/IFAHtml/classes/3rd party/DTFoundation/IFA_DTHTMLParser.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/IFAHtml/IFAHtml/classes/3rd party/DTFoundation/IFA_DTWeakSupport.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/IFAHtml/IFAHtml/classes/3rd party/DTFoundation/readme.markdown" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/IFAHtml/IFAHtml/classes/IFAHtmlParser.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/IFAHtml/IFAHtml/classes/IFAWebViewController.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/IFAHtml/IFAHtml/Info.plist" isTestSource="false" />
@@ -765,6 +764,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Pods/OCMock/Source/OCMock/OCClassMockObject.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/OCMock/Source/OCMock/OCClassMockObject.h" isTestSource="false" />
     </content>
+    <content url="file://$MODULE_DIR$/fastlane" />
     <content url="file:///usr/lib/libxml2.2.dylib">
       <sourceFolder url="file:///usr/lib/libxml2.2.dylib" isTestSource="false" />
     </content>
@@ -953,9 +953,6 @@
           <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/7.3.0/include" />
           <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1" />
         </SOURCES>
-        <excluded>
-          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/libxml2" />
-        </excluded>
       </library>
     </orderEntry>
   </component>
