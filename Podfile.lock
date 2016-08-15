@@ -1,4 +1,9 @@
 PODS:
+  - IFAAppUI (1.0.3):
+    - IFACoreUI
+  - IFACoreUI (1.0.5):
+    - IFAFoundation
+  - IFAFoundation (1.0.10)
   - IFATestingSupport (1.0.3):
     - OCHamcrest (~> 4)
     - OCMock (~> 3)
@@ -6,11 +11,40 @@ PODS:
   - OCMock (3.2)
 
 DEPENDENCIES:
+  - IFAAppUI (from `https://github.com/marcelo-schroeder/IFAAppUI.git`, branch `development`)
+  - IFACoreUI (from `https://github.com/marcelo-schroeder/IFACoreUI.git`, branch `development`)
+  - IFAFoundation (from `https://github.com/marcelo-schroeder/IFAFoundation.git`,
+    branch `development`)
   - IFATestingSupport
   - OCHamcrest
   - OCMock
 
+EXTERNAL SOURCES:
+  IFAAppUI:
+    :branch: development
+    :git: https://github.com/marcelo-schroeder/IFAAppUI.git
+  IFACoreUI:
+    :branch: development
+    :git: https://github.com/marcelo-schroeder/IFACoreUI.git
+  IFAFoundation:
+    :branch: development
+    :git: https://github.com/marcelo-schroeder/IFAFoundation.git
+
+CHECKOUT OPTIONS:
+  IFAAppUI:
+    :commit: 15c4582c38909ca7fe18c86468a3f30c9219d6ba
+    :git: https://github.com/marcelo-schroeder/IFAAppUI.git
+  IFACoreUI:
+    :commit: 2e8136c168803898ddbc35fd23a55ea1e65c7f6d
+    :git: https://github.com/marcelo-schroeder/IFACoreUI.git
+  IFAFoundation:
+    :commit: db27fca4d2d072b39e8dabae1c48351b89dbf3ac
+    :git: https://github.com/marcelo-schroeder/IFAFoundation.git
+
 SPEC CHECKSUMS:
+  IFAAppUI: d2d1cc884378d466a3970f41fd28496a03721f50
+  IFACoreUI: 0f3e897248174c991d9192200775701f9f4e3742
+  IFAFoundation: 8f1df14903d581b5001d14e6bacb6bc35497b774
   IFATestingSupport: 6558e25b6d4bac3fc11caec7ffe05e6e4bfbca77
   OCHamcrest: cd63d27f48a266d4412c0b295b01b8f0940efa81
   OCMock: 28def049ef47f996b515a8eeea958be7ccab2dbb
