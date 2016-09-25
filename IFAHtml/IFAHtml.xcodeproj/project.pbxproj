@@ -53,6 +53,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		107383E66877F14D06F59DA6 /* ReleaseNotes.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = ReleaseNotes.txt; path = ../ReleaseNotes.txt; sourceTree = "<group>"; };
 		107384C775547CBF380CFCA3 /* readme.markdown */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = readme.markdown; sourceTree = "<group>"; };
 		10738B79F218E4FAA9EBA164 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		10738BCB7A3C1130558BB9E9 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
@@ -217,6 +218,7 @@
 				B129A80CDC5088089F1CC5AB /* Pods */,
 				21AE26FE35B6AFE8F1493745 /* Frameworks */,
 				10738B79F218E4FAA9EBA164 /* LICENSE */,
+				107383E66877F14D06F59DA6 /* ReleaseNotes.txt */,
 			);
 			sourceTree = "<group>";
 		};
