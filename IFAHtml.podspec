@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
     s.name              = 'IFAHtml'
-    s.version           = '1.0.3'
+    s.version           = '2.0.0'
     s.summary           = 'A Cocoa Touch framework for HTML parsing and manipulation.'
     s.homepage          = 'https://github.com/marcelo-schroeder/IFAHtml'
     s.license           = 'Apache-2.0'
     s.author            = { 'Marcelo Schroeder' => 'marcelo.schroeder@infoaccent.com' }
-    s.platform          = :ios, '8.0'
+    s.platform          = :ios, '9.0'
     s.requires_arc      = true
     s.source            = { :git => 'https://github.com/marcelo-schroeder/IFAHtml.git', :tag => 'v' +  s.version.to_s }
     s.source_files      = 'IFAHtml/IFAHtml/classes/**/*.{h,m}'
