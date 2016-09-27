@@ -1,9 +1,9 @@
 PODS:
-  - IFAAppUI (1.0.4):
-    - IFACoreUI
-  - IFACoreUI (1.0.6):
-    - IFAFoundation
-  - IFAFoundation (1.0.12)
+  - IFAAppUI (2.0.0):
+    - IFACoreUI (~> 2)
+  - IFACoreUI (2.0.0):
+    - IFAFoundation (~> 2)
+  - IFAFoundation (2.0.0)
   - IFATestingSupport (1.0.3):
     - OCHamcrest (~> 4)
     - OCMock (~> 3)
@@ -11,15 +11,25 @@ PODS:
   - OCMock (3.2)
 
 DEPENDENCIES:
-  - IFAAppUI (~> 1)
+  - IFAAppUI (from `/Users/mschroeder/myfiles/projects/Xcode/IFAAppUI/IFAAppUI_development`)
+  - IFACoreUI (from `/Users/mschroeder/myfiles/projects/Xcode/IFACoreUI/IFACoreUI_development`)
+  - IFAFoundation (from `/Users/mschroeder/myfiles/projects/Xcode/IFAFoundation/IFAFoundation_development`)
   - IFATestingSupport
   - OCHamcrest
   - OCMock
 
+EXTERNAL SOURCES:
+  IFAAppUI:
+    :path: /Users/mschroeder/myfiles/projects/Xcode/IFAAppUI/IFAAppUI_development
+  IFACoreUI:
+    :path: /Users/mschroeder/myfiles/projects/Xcode/IFACoreUI/IFACoreUI_development
+  IFAFoundation:
+    :path: /Users/mschroeder/myfiles/projects/Xcode/IFAFoundation/IFAFoundation_development
+
 SPEC CHECKSUMS:
-  IFAAppUI: 3b024dda27ae8b062dd18d721b5e77e7caa875ee
-  IFACoreUI: 5c238d876ce584d5bb3e7735045e06ae28b49b93
-  IFAFoundation: 14470c198dc14c26ebe575677be1d31666ac5a6f
+  IFAAppUI: 200ed3a2e6783ebe30ac715f0e003a490226fcd0
+  IFACoreUI: dc00781d678e401455f25d9d8e9a080fe2d6bcb4
+  IFAFoundation: 1a2785c5b19a818f120fbefeea87bbc9f6014727
   IFATestingSupport: 6558e25b6d4bac3fc11caec7ffe05e6e4bfbca77
   OCHamcrest: cd63d27f48a266d4412c0b295b01b8f0940efa81
   OCMock: 28def049ef47f996b515a8eeea958be7ccab2dbb

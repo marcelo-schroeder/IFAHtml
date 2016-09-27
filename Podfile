@@ -7,15 +7,15 @@ use_frameworks!
 target :IFAHtml do
 
   # pod 'IFAFoundation', :git => 'https://github.com/marcelo-schroeder/IFAFoundation.git', :branch => 'development'
-  # pod 'IFAFoundation', :path => '/Users/mschroeder/myfiles/projects/Xcode/IFAFoundation/IFAFoundation_development'
+  pod 'IFAFoundation', :path => '/Users/mschroeder/myfiles/projects/Xcode/IFAFoundation/IFAFoundation_development'
 
   # pod 'IFACoreUI', :git => 'https://github.com/marcelo-schroeder/IFACoreUI.git', :branch => 'development'
-  # pod 'IFACoreUI', :path => '/Users/mschroeder/myfiles/projects/Xcode/IFACoreUI/IFACoreUI_development'
+  pod 'IFACoreUI', :path => '/Users/mschroeder/myfiles/projects/Xcode/IFACoreUI/IFACoreUI_development'
 
   # pod 'IFAAppUI'
   # pod 'IFAAppUI', :git => 'https://github.com/marcelo-schroeder/IFAAppUI.git', :branch => 'development'
-  # pod 'IFAAppUI', :path => '/Users/mschroeder/myfiles/projects/Xcode/IFAAppUI/IFAAppUI_development'
-  pod 'IFAAppUI', '~> 1'
+  pod 'IFAAppUI', :path => '/Users/mschroeder/myfiles/projects/Xcode/IFAAppUI/IFAAppUI_development'
+  # pod 'IFAAppUI', '~> 1'
 
   target :IFAHtmlTests do
     pod 'IFATestingSupport'
