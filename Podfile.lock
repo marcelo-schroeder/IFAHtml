@@ -27,8 +27,8 @@ EXTERNAL SOURCES:
     :path: /Users/mschroeder/myfiles/projects/Xcode/IFAFoundation/IFAFoundation_development
 
 SPEC CHECKSUMS:
-  IFAAppUI: 200ed3a2e6783ebe30ac715f0e003a490226fcd0
-  IFACoreUI: dc00781d678e401455f25d9d8e9a080fe2d6bcb4
+  IFAAppUI: 71e856fa13d45b9e253415811540000df47e5ce5
+  IFACoreUI: 2ac89799c893b77cc520d3b19b9dcbac98c90c14
   IFAFoundation: 1a2785c5b19a818f120fbefeea87bbc9f6014727
   IFATestingSupport: 6558e25b6d4bac3fc11caec7ffe05e6e4bfbca77
   OCHamcrest: cd63d27f48a266d4412c0b295b01b8f0940efa81
