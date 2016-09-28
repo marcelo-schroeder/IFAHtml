@@ -11,5 +11,5 @@ Pod::Spec.new do |s|
     s.source_files      = 'IFAHtml/IFAHtml/classes/**/*.{h,m}'
     s.library           = 'xml2'
     s.xcconfig          = { 'HEADER_SEARCH_PATHS' => '"$(SDKROOT)/usr/include/libxml2"' }
-    s.dependency 'IFAAppUI', '~> 2'
+    s.dependency 'IFAAppUI', '~> 1'
 end
