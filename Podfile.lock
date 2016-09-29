@@ -11,20 +11,34 @@ PODS:
   - OCMock (3.2)
 
 DEPENDENCIES:
-  - IFAAppUI (from `/Users/mschroeder/myfiles/projects/Xcode/IFAAppUI/IFAAppUI_development`)
-  - IFACoreUI (from `/Users/mschroeder/myfiles/projects/Xcode/IFACoreUI/IFACoreUI_development`)
-  - IFAFoundation (from `/Users/mschroeder/myfiles/projects/Xcode/IFAFoundation/IFAFoundation_development`)
+  - IFAAppUI (from `https://github.com/marcelo-schroeder/IFAAppUI.git`, branch `dev_iOS10_Cocoapods1`)
+  - IFACoreUI (from `https://github.com/marcelo-schroeder/IFACoreUI.git`, branch `dev_iOS10_Cocoapods1`)
+  - IFAFoundation (from `https://github.com/marcelo-schroeder/IFAFoundation.git`, branch `dev_iOS10_Cocoapods1`)
   - IFATestingSupport
   - OCHamcrest
   - OCMock
 
 EXTERNAL SOURCES:
   IFAAppUI:
-    :path: /Users/mschroeder/myfiles/projects/Xcode/IFAAppUI/IFAAppUI_development
+    :branch: dev_iOS10_Cocoapods1
+    :git: https://github.com/marcelo-schroeder/IFAAppUI.git
   IFACoreUI:
-    :path: /Users/mschroeder/myfiles/projects/Xcode/IFACoreUI/IFACoreUI_development
+    :branch: dev_iOS10_Cocoapods1
+    :git: https://github.com/marcelo-schroeder/IFACoreUI.git
   IFAFoundation:
-    :path: /Users/mschroeder/myfiles/projects/Xcode/IFAFoundation/IFAFoundation_development
+    :branch: dev_iOS10_Cocoapods1
+    :git: https://github.com/marcelo-schroeder/IFAFoundation.git
+
+CHECKOUT OPTIONS:
+  IFAAppUI:
+    :commit: fd386d87e9e990f7bdbb159ffdb3963f5cb4c1f2
+    :git: https://github.com/marcelo-schroeder/IFAAppUI.git
+  IFACoreUI:
+    :commit: fcf35c0e25ee708a37bc353a69d33bcc7a9f217a
+    :git: https://github.com/marcelo-schroeder/IFACoreUI.git
+  IFAFoundation:
+    :commit: 58c5775bad9814d9cdf6930de2a5fc686877177a
+    :git: https://github.com/marcelo-schroeder/IFAFoundation.git
 
 SPEC CHECKSUMS:
   IFAAppUI: dca7e8d2acdb58a27024a7c1b9059afd4bd99b5b
@@ -34,4 +48,6 @@ SPEC CHECKSUMS:
   OCHamcrest: cd63d27f48a266d4412c0b295b01b8f0940efa81
   OCMock: 28def049ef47f996b515a8eeea958be7ccab2dbb
 
-COCOAPODS: 0.39.0
+PODFILE CHECKSUM: 2f667784ba84280d6d473c9e40aa0374000eb4d3
+
+COCOAPODS: 1.0.1
