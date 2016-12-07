@@ -5,19 +5,19 @@ use_frameworks!
 
 target :IFAHtml do
 
-  pod 'IFAFoundation', :git => 'https://github.com/marcelo-schroeder/IFAFoundation.git', :branch => 'dev_iOS10_Cocoapods1'
-  # pod 'IFAFoundation', :git => 'https://github.com/marcelo-schroeder/IFAFoundation.git', :branch => 'development'
-  # pod 'IFAFoundation', :path => '/Users/mschroeder/myfiles/projects/Xcode/IFAFoundation/IFAFoundation_development'
-
-  pod 'IFACoreUI', :git => 'https://github.com/marcelo-schroeder/IFACoreUI.git', :branch => 'dev_iOS10_Cocoapods1'
-  # pod 'IFACoreUI', :git => 'https://github.com/marcelo-schroeder/IFACoreUI.git', :branch => 'development'
-  # pod 'IFACoreUI', :path => '/Users/mschroeder/myfiles/projects/Xcode/IFACoreUI/IFACoreUI_development'
-
-  # pod 'IFAAppUI'
-  pod 'IFAAppUI', :git => 'https://github.com/marcelo-schroeder/IFAAppUI.git', :branch => 'dev_iOS10_Cocoapods1'
+  pod 'IFAAppUI'
+  # pod 'IFAAppUI', :git => 'https://github.com/marcelo-schroeder/IFAAppUI.git', :branch => 'dev_iOS10_Cocoapods1'
   # pod 'IFAAppUI', :git => 'https://github.com/marcelo-schroeder/IFAAppUI.git', :branch => 'development'
   # pod 'IFAAppUI', :path => '/Users/mschroeder/myfiles/projects/Xcode/IFAAppUI/IFAAppUI_development'
   # pod 'IFAAppUI', '~> 1'
+
+  # pod 'IFACoreUI', :git => 'https://github.com/marcelo-schroeder/IFACoreUI.git', :branch => 'dev_iOS10_Cocoapods1'
+  # pod 'IFACoreUI', :git => 'https://github.com/marcelo-schroeder/IFACoreUI.git', :branch => 'development'
+  # pod 'IFACoreUI', :path => '/Users/mschroeder/myfiles/projects/Xcode/IFACoreUI/IFACoreUI_development'
+
+  # pod 'IFAFoundation', :git => 'https://github.com/marcelo-schroeder/IFAFoundation.git', :branch => 'dev_iOS10_Cocoapods1'
+  # pod 'IFAFoundation', :git => 'https://github.com/marcelo-schroeder/IFAFoundation.git', :branch => 'development'
+  # pod 'IFAFoundation', :path => '/Users/mschroeder/myfiles/projects/Xcode/IFAFoundation/IFAFoundation_development'
 
   target :IFAHtmlTests do
     pod 'IFATestingSupport'
