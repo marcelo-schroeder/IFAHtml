@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name              = 'IFAHtml'
-    s.version           = '1.1.0'
+    s.version           = '1.0.4'
     s.summary           = 'A Cocoa Touch framework for HTML parsing and manipulation.'
     s.homepage          = 'https://github.com/marcelo-schroeder/IFAHtml'
     s.license           = 'Apache-2.0'
