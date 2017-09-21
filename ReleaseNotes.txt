@@ -1,1 +1,1 @@
-[CHANGE] .gitignore updated.
+[CHANGE] Lowest iOS version supported is now 10.

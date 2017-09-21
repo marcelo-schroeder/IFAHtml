@@ -29,10 +29,10 @@ EXTERNAL SOURCES:
     :path: /Users/mschroeder/myfiles/projects/Xcode/IFATestingSupport/IFATestingSupport_development
 
 SPEC CHECKSUMS:
-  IFAAppUI: 9d4aaa5ecd79022a3309d32ab30c0bd34d910627
-  IFACoreUI: 2611ecdf302fa1252398d1123e0a68315ee84311
-  IFAFoundation: 2170a1f9d2feb4476839cf5e1f600256ba079568
-  IFATestingSupport: a57b28642534d09ee4eef83e030ed9246241a47d
+  IFAAppUI: ab7946d3677ddf0b190a79f398c744b1d29f34c4
+  IFACoreUI: acfd5fac577ed240966269e7b738c0f790f0088c
+  IFAFoundation: f63d8d6b87ce85102059fa40a49fb35c99b598ad
+  IFATestingSupport: c9d00bf956c0cc2f7df37373e2053e7fed00090e
   OCHamcrest: 7c2229e7ea96eecd6e43dbef7c68e1dfbd6928b8
   OCMock: 35ae71d6a8fcc1b59434d561d1520b9dd4f15765
 
