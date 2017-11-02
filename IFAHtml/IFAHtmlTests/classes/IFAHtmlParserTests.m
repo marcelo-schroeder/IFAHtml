@@ -17,8 +17,10 @@
 //  limitations under the License.
 //
 
-#import "IFACommonTests.h"
 @import IFAHtml;
+@import XCTest;
+@import OCMock;
+@import OCHamcrest;
 
 typedef void (^IFAHtmlParserTestsElementBlock)(NSUInteger a_index, NSString *a_name, NSString *a_stringRepresentation, NSDictionary *a_attributes, NSDictionary *a_activeInlineStyleAttributes);
 

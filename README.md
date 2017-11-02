@@ -6,6 +6,13 @@
 
 IFAHtml is a Cocoa Touch framework for HTML parsing and manipulation. IFAHtml requires iOS 8 or greater.
 
+Compatibility information:
+
+| IFAHtml version | Xcode version | iOS deployment target | Swift version |
+| --------------- | ------------- | --------------------- | ------------- |
+| 1.x             | 8.x           | 9.0                   | 3.2           |
+| 2.x             | 9.x           | 10.0                  | 4.0           |
+
 This framework has been used in a few projects for my clients.
 
 The latest API documentation can be found [here](http://cocoadocs.org/docsets/IFAHtml).
