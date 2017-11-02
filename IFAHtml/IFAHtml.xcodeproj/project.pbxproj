@@ -326,7 +326,7 @@
 		F7650ADA1BE954C600B97932 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0900;
+				LastUpgradeCheck = 0910;
 				ORGANIZATIONNAME = "InfoAccent Pty Ltd";
 				TargetAttributes = {
 					F7650AE21BE954C600B97932 = {

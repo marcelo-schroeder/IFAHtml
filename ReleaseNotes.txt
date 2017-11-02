@@ -1,1 +1,1 @@
-[CHANGE] Lowest iOS version supported is now 10.
+[CHANGE] Xcode 9 compatibility changes (lowest iOS version supported is now 10).
